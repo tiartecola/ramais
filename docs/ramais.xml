@@ -1,0 +1,114 @@
+<!-- 
+<contact name="LIVRE - TI" number="3501" />
+<contact name="LIVRE - TI" number="5002" />
+<contact name="LIVRE - TI" number="5210" />
+<contact name="LIVRE - Natália Goedtel Medeiros" number="5227" />
+<contact name="RESERVADO - Estagiário TI" number="5003" />
+<contact name="RESERVADO - William Bernardini - Exportação" number="5240" />
+<contact name="RESERVADO - Viviane Silveira - Financeiro" number="0051980214585" />
+-->
+<contacts refresh="3600">
+<!-- Celulares -->
+<contact name="Adilson Santos - Comercial - CB" number="0051991337454" />
+<contact name="Alessandra Soares - DH - TT" number="0015981331383" />
+<contact name="Alvaro Neto - Comercial - TAT" number="0075991222726" />
+<contact name="André Kopeginski - Controladoria" number="0051980560381" />
+<contact name="Camila Schuck - Fundação" number="0051989592514" />
+<contact name="Cintia Rodrigues - Jurídico" number="0051992962062" />
+<contact name="Cristian Krug - Segurança - CB" number="0051999152623" />
+
+<contact name="Marcio Schons - TI" number="0051997842151" />
+<contact name="Jorge Lemos - Financeiro" number="0051995408667" />
+<!-- Campo Bom -->
+<contact name="SETOR - TI" number="5000" />
+<contact name="SETOR - Financeiro" number="3501" />
+<contact name="SETOR - Fundação" number="5218" />
+<contact name="SETOR - Sintético - CB" number="3752" />
+<contact name="SETOR - Portaria - CB" number="3828" />
+<contact name="SETOR - Portaria - CB" number="3709" />
+<contact name="SETOR - Refeitório - CB" number="5312" />
+<contact name="SETOR - ADM Vendas - CB" number="5144" />
+<contact name="SETOR - Logística - CB" number="5333" />
+<contact name="SETOR - Recepção - CB" number="5366" />
+<contact name="SETOR - PeD Laminados - CB" number="5221" />
+
+<contact name="Jonas Schlemmer - TI" number="5001" />
+<contact name="Heleno Junior - TI" number="5004" />
+<contact name="Marcio Schons - TI" number="5266" />
+
+<contact name="Viviane Silveira - Financeiro" number="5208" />
+<contact name="Daiana Rosa - Financeiro" number="5110" />
+<contact name="Daniela Haag - Financeiro" number="5261" />
+<contact name="Denise Peres - Financeiro" number="5255" />
+<contact name="Emilly Santos - Financeiro" number="5325" />
+<contact name="Jorge Lemos - Financeiro" number="5381" />
+<contact name="Lisiane Costa - Financeiro" number="5250" />
+<contact name="Shirley Schirmann - Financeiro" number="5219" />
+<contact name="Tatiana Almeida - Financeiro" number="5212" />
+
+<contact name="Andreza Ludke - ADM Vendas - CB" number="5420" />
+<contact name="Dianalise Dave - ADM Vendas - CB" number="3832" />
+<contact name="Débora Schmitt - ADM Vendas - CB" number="5232" />
+<contact name="Luciano Zanellato - ADM Vendas - CB" number="5412" />
+
+<contact name="Daiane Braga - Vendas Internas" number="5147" />
+
+<contact name="Vagner Reis - PCP - CB" number="3707" />
+
+<contact name="Cíntia Rodrigues - Jurídico" number="5258" />
+<contact name="Kamila Glass - Jurídico" number="5204" />
+
+<contact name="Silviana Thomas - DH - CB" number="5166" />
+<contact name="Cíntia Nipper - DH - CB" number="3117" />
+
+<contact name="Franciele Silva - Segurança - CB" number="3702" />
+<contact name="Cristian Krug - Segurança - CB" number="3703" />
+<contact name="Emergência - Cristian - Franciele - Segurança - CB" number="5193" />
+
+<contact name="Luis Silveira - Almoxarifado - CB" number="3721" />
+<contact name="Cesar Cruz - Almoxarifado - CB" number="3708" />
+
+<contact name="Daiana Caloni - Contabilidade" number="5108" />
+
+<contact name="Carlo Morbach - Controladoria" number="5379" />
+<contact name="André Kopeginski - Controladoria" number="5298" />
+<contact name="Andreiser Oliveira - Controladoria" number="5213" />
+
+<contact name="Fausto Citolin - Supply" number="5216" />
+<contact name="Jonivan Silva - Supply" number="5281" />
+<contact name="Gilmar Ben - Supply" number="5216" />
+<contact name="Ana Gracez - Supply" number="5230" />
+<contact name="Andrea Medina - Supply" number="5343" />
+<contact name="Denise Ramão - Supply" number="5251" />
+<contact name="Derli Nascimento - Supply" number="5121" />
+<contact name="Andressa Nascimento - Supply" number="5270" />
+<contact name="Jessé Rodrigues - Supply" number="5217" />
+
+<contact name="Maria Rosa - Fiscal" number="5226" />
+<contact name="Darlei Hoffmann - Fiscal" number="5278" />
+
+<contact name="Fabiane Scherer - Diretoria" number="5203" />
+
+<contact name="Paulo Schmokel - Manutenção - CB" number="3705" />
+<contact name="Felipe Henkel - Manutenção - CB" number="3711" />
+
+<contact name="Bianca Moura - Qualidade - CB" number="3704" />
+
+<contact name="Evandro Schonardie - Logística - CB" number="5314" />
+<contact name="Magnos Oliveira - Logística - CB" number="5130" />
+
+<contact name="Itamar Flores - Expedição - CB" number="3701" />
+
+<contact name="Caroline Moreira - Projetos" number="5392" />
+
+<contact name="Valdemar Masselli - PeD - CB" number="5349" />
+<contact name="Alessandra Lemos - PeD Laminados - CB" number="5361" />
+<contact name="Ana Sasamori - PeD Laminados - CB" number="5385" />
+
+<contact name="Joner Angeli - Service" number="5133" />
+<!-- Caxias -->
+
+<!-- Tatuí -->
+<contact name="Ariane Soares - DH - TT" number="3117" />
+<contact name="Alessandra Soares - DH - TT" number="3110" />
+</contacts>
