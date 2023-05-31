@@ -1,7 +1,7 @@
 <!--
 
 -->
-<contacts refresh="3600">
+<contacts refresh="1800">
 <!-- Celulares -->
   <contact name="Adilson Santos - Comercial - CB" number="0051991337454" />
   <contact name="Alessandra Soares - DH - TT" number="0015981331383" />
