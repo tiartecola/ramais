@@ -4,7 +4,7 @@
   <contact name="Novo Colaborador - TT" number="3116" />
   <contact name="Keila Arruda - PeD - CB" number=" " />
 -->
-<contacts refresh="60">
+<contacts refresh="7200">
 <!-- Celulares -->
   <contact name="Adilson Santos - Comercial - CB" number="0051991337454" />
   <contact name="Alessandra Soares - DH - TT" number="0015981331383" />
@@ -88,8 +88,6 @@
   <contact name= "Juliana Thiesen - Cont. Int. Corp." number= "5116"  />
   <contact name= "Juliana Thiesen - Cont. Int. Corp." number= "0051999181187"  />
   <contact name= "Kamila Glass - Jurídico" number= "5204"  />
-  <contact name= "Keila Arruda - PeD - TT" number= "3114"  />
-  <contact name= "Keila Arruda - PeD - TT" number= "3116"  />
   <contact name= "Kleber Rodrigues - Comercial - TAT" number= "0016981587503"  />
   <contact name= "Laura Cansi - LAP - CB" number= "5395"  />
   <contact name= "Laura Mello - Exportação" number= "5295"  />
