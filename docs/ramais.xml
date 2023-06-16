@@ -4,7 +4,7 @@
   <contact name="Novo Colaborador - TT" number="3116" />
   <contact name="Keila Arruda - PeD - CB" number=" " />
 -->
-<contacts refresh="10">
+<contacts refresh="7200">
 <!-- Celulares -->
   <contact name="Adilson Santos - Comercial - CB" number="0051991337454" />
   <contact name="Alessandra Soares - DH - TT" number="0015981331383" />
@@ -198,6 +198,8 @@
   <contact name= "William Bernardini - Exportação" num= "5240"  />
   <contact name= "William Rodrigues - LAP - CB" num= "5132"  />
   <contact name= "William Rodrigues - LAP - CB" num= "0051997145132"  />
+  <contact name="Keila Arruda - PeD - TT" num="3132" />
+  <contact name="Maicon Braganholo - ADM Vendas - 5120" num="5120" />
 
   
   <contact name="SETOR Financeiro - CB" number="3501" />
