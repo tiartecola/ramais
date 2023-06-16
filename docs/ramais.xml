@@ -2,7 +2,10 @@
   <contact name=" " number=" " />
   <contact name="Central de Resíduos - CB" number="3754" /> (sem cabeamento)
   <contact name="Novo Colaborador - TT" number="3116" />
-  <contact name="Keila Arruda - PeD - CB" number=" " />
+  <contact name= "William Bernardini - Exportação" number= "0051989481638"  />
+  <contact name= "William Bernardini - Exportação" number= "5240"  />
+  <contact name= "William Rodrigues - LAP - CB" number= "5132"  />
+  <contact name= "William Rodrigues - LAP - CB" number= "0051997145132"  />
 -->
 <contacts refresh="7200">
 <!-- Celulares -->
@@ -193,10 +196,6 @@
   <contact name= "Viviane Silveira - Financeiro" number= "0051980214585"  />
   <contact name= "Walkiria do Vale - Comercial - TT" number= "3128"  />
   <contact name= "Walkiria do Vale - Comercial - TT" number= "0011963308681"  />
-  <contact name= "William Bernardini - Exportação" number= "0051989481638"  />
-  <contact name= "William Bernardini - Exportação" number= "5240"  />
-  <contact name= "William Rodrigues - LAP - CB" number= "5132"  />
-  <contact name= "William Rodrigues - LAP - CB" number= "0051997145132"  />
   <contact name="Keila Arruda - PeD - TT" number="3132" />
   <contact name="Maicon Braganholo - ADM Vendas - 5120" number="5120" />
   
