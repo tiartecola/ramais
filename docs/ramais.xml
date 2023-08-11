@@ -11,7 +11,6 @@
   <contact name="Nicolas Vargas - TI" number="5002" />
   <contact name="Marco Santos - Projetos - CB" number="5372" />
   <contact name="Ellen Zacharias - ADM Vendas - CB" number="3831" />
-  <contact name="Maicon Braganholo - ADM Vendas - 5120" number="5120" />
 -->
 <contacts refresh="7200">
 <!-- Celulares -->
@@ -223,6 +222,7 @@
   <contact name="Andreza Ludke - ADM Vendas - CB" number="5420" />
   <contact name="Dianalise Dave- ADM Vendas - CB" number="3832" />
   <contact name="Debora Schmitt - ADM Vendas - CB" number="5232" />
+  <contact name="Silvana Maier - ADM Vendas - 5120" number="5120" />
   
   <contact name="Ana Gracez - Supply - CB" number="5230" />
   <contact name="Andrea Medina - Supply - CB" number="5343" />
