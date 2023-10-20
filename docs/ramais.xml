@@ -12,13 +12,14 @@
   <contact name="Nicolas Vargas - TI" number="5002" />
   <contact name="Camila Silva - LAP" number="5236" />
   <contact name="Marco Santos - Projetos - CB" number="5372" />
-  <contact name="Ellen Zacharias - ADM Vendas - CB" number="3831" />
+  <contact name="Brenda Rosa - ADM Vendas - CB" number="3831" />
   <contact name="Andressa Nascimento - Supply - CB" number="5270" />
   <contact name="Ana Gracez - Supply - CB" number="5230" />
   <contact name="Vinicius Reis - Fiscal" number= "5305"  />
 -->
 <contacts refresh="7200">
 <!-- Celulares -->
+  <contact name="Brenda Rosa - ADM Vendas - CB" number="3831" />
   <contact name="Adilson Santos - Comercial - CB" number="0051991337454" />
   <contact name="Alessandra Soares - DH - TT" number="0015981331383" />
   <contact name="Alvaro Neto - Comercial - TT" number="0075991222726" />
