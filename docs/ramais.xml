@@ -19,6 +19,7 @@
 -->
 <contacts refresh="7200">
 <!-- Celulares -->
+  <contact name="*8 - PUXAR LIGAÇÃO" number="*8" />
   <contact name="Brenda Rosa - ADM Vendas - CB" number="3831" />
   <contact name="Adilson Santos - Comercial - CB" number="0051991337454" />
   <contact name="Alessandra Soares - DH - TT" number="0015981331383" />
