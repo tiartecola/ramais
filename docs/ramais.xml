@@ -21,6 +21,7 @@
 -->
 <contacts refresh="7200">
 <!-- Celulares -->
+  <contact name="Jessé Rodrigues - Supply - CB" number= "0051994494921"  />
   <contact name="*8 - PUXAR LIGAÇÃO" number="*8" />
   <contact name="Brenda Rosa - ADM Vendas - CB" number="3831" />
   <contact name="Adilson Santos - Comercial - CB" number="0051991337454" />
