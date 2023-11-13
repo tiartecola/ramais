@@ -7,7 +7,6 @@
   <contact name="Carina Eltz - Supply" number= "5240"/>
   <contact name="William Rodrigues - LAP - CB" number= "5132"  />
   <contact name="William Rodrigues - LAP - CB" number= "0051997145132"  />
-  <contact name="Futura Estagiária - DH - CB" number="5117" />
   <contact name="Iverson Lima - PeD - CX" number="0051995174535" />
   <contact name="Laura Mello - Exportação" number= "5295"  />
   <contact name="Laura Mello - Exportação" number= "0051980186492"  />
@@ -23,6 +22,7 @@
 -->
 <contacts refresh="7200">
 <!-- Celulares -->
+  <contact name="Camila Shuck - Fundacao" number="5117" />
   <contact name="Jessé Rodrigues - Supply - CB" number= "0051994494921"  />
   <contact name="*8 - PUXAR LIGAÇÃO" number="*8" />
   <contact name="Brenda Rosa - ADM Vendas - CB" number="3831" />
