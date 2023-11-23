@@ -7,6 +7,7 @@
   <contact name="Denise Ramão - Supply - CB" number="5251" />
   <contact name="William Rodrigues - LAP - CB" number= "5132"  />
   <contact name="William Rodrigues - LAP - CB" number= "0051997145132"  />
+  <contact name="Andrea Medina - Supply - CB" number="5343" />
   <contact name="Iverson Lima - PeD - CX" number="0051995174535" />
   <contact name="Laura Mello - Exportação" number= "5295"  />
   <contact name="Laura Mello - Exportação" number= "0051980186492"  />
@@ -22,6 +23,11 @@
   <contact name="Ana Gracez - Supply - CB" number="5230" />
   <contact name="Vinicius Reis - Fiscal" number= "5305"  />
 -->
+
+<!--  -->
+  
+<!--  -->
+
 <contacts refresh="7200">
 <!-- Celulares -->
   <contact name="Camila Shuck - Fundacao" number="5102" />
@@ -234,7 +240,7 @@
   <contact name="Debora Schmitt - ADM Vendas - CB" number="5232" />
   <contact name="Silvana Maier - ADM Vendas - 5120" number="5120" />
   
-  <contact name="Andrea Medina - Supply - CB" number="5343" />
+  
   
   <contact name="Derli Nascimento - Supply - CB" number="5121" />
   <contact name="Ederson Marques - Supply - CB" number="5228" />
