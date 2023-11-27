@@ -17,6 +17,7 @@
   <contact name="Vanessa Birck - PeD HotMelt - CB" number= "0051999263034"  />
   <contact name="Andreza Ludke - ADM Vendas - CB" number="5420" />
   <contact name="Jacira Generato - SMS - TT" number= "3121"  />
+<contact name="Evandro Schonardie - Logistica" number= "5314"  />
   <contact name="Jacira Generato - SMS - TT" number= "0011987537136"  />
   <contact name="Camila Silva - LAP" number="5236" />
   <contact name="Marco Santos - Projetos - CB" number="5372" />
@@ -67,8 +68,8 @@
 
   <contact name="Eduardo Goncalves - Diretoria - CB" number="5259" />
   <contact name="Setor Fiscal" number= "5291"/>
-  <contact name="Evandro Schonardie - Logistica" number= "5314"  />
-  <contact name="Evandro Schonardie - Logistica" number= "0051993787742"  />
+  
+ 
   <contact name="Fabiana Skonetzky - Fiscal" number= "5391"  />
   <contact name="Fabiana Skonetzky - Fiscal" number= "0051999302101"  />
   <contact name="Fabiane Scherer - Diretoria" number= "5203"  />
@@ -135,6 +136,8 @@
   <contact name="Luíz Souza - LAP - CB" number= "5290"  />
   <contact name="Magnos Oliveira - Logística" number= "5130"  />
   <contact name="Magnos Oliveira - Logística" number= "0051999502953"  />
+<!--   Evandro -->
+  <contact name="Magnos Oliveira - Logistica-" number= "0051993787742"  />
   <contact name="Manutenção - TT" number= "3731"  />
   <contact name="Marcelo Albuquerque - Gerente - TT" number= "3123"  />
   <contact name="Marcelo Albuquerque - Gerente - TT" number= "0015998130769"  />
