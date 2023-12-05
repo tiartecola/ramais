@@ -33,7 +33,7 @@
   
 <!--  -->
 
-<contacts refresh="7200">
+<contacts refresh="300">
 <!-- Celulares -->
   <contact name="Camila Shuck - Fundacao" number="5102" />
   <contact name="Jessé Rodrigues - Supply - CB" number= "0051994494921"  />
