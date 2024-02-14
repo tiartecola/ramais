@@ -9,7 +9,7 @@
   <contact name="William Rodrigues - LAP - CB" number= "0051997145132"  />
 <contact name="Shirley Schirmann - Financeiro" number= "5219"  />
 <contact name="Valdemar Masselli - PeD - CB" number= "0051996513830"  />
-  <contact name="Andrea Medina - Supply - CB" number="5343" />
+  
   <contact name="Iverson Lima - PeD - CX" number="0051995174535" />
   <contact name="Laura Mello - Exportação" number= "5295"  />
  <contact name="Luciana Felipette - Comercial - CB" number= "5139"  />
@@ -34,7 +34,7 @@
 -->
 
 <!-- Organizados em ordem alfabética -->
-  
+<contact name="Lucas Kunst - Supply - CB" number="5343" />
 <!--  -->
 
 <contacts refresh="300">
