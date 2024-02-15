@@ -36,10 +36,10 @@
 <!-- Organizados em ordem alfabética -->
 <!--  -->
 
-<contacts refresh="500">
+<contacts refresh="300">
 <!-- Celulares -->
   
-<contact name="Lucas Kunst - Supply - CB" number="5343" />
+  <contact name="Lucas Kunst - Supply - CB" number="5343" />
   <contact name="Camila Shuck - Fundacao" number="5102" />
   <contact name="Jessé Rodrigues - Supply - CB" number= "0051994494921"  />
   <contact name="*8 - PUXAR LIGAÇÃO" number="*8" />
