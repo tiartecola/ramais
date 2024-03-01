@@ -16,14 +16,13 @@
   <contact name="Laura Mello - Exportação" number= "0051980186492"  />
   <contact name="Nicolas Vargas - TI" number="5002" />
   <contact name="Vanessa Birck - PeD HotMelt - CB" number= "0051999263034"  />
-  <contact name="Andreza Ludke - ADM Vendas - CB" number="5420" />
+  <contact name="Renan Kosvoski - Comercial - CB" number="5420" />
   <contact name="Jacira Generato - SMS - TT" number= "3121"  />
   <contact name="Evandro Schonardie - Logistica" number= "5314"  />
   <contact name="Jacira Generato - SMS - TT" number= "0011987537136"  />
   <contact name="Camila Silva - LAP" number="5236" />
   <contact name="Marco Santos - Projetos - CB" number="5372" />
   <contact name="Brenda Rosa - ADM Vendas - CB" number="3831" />
-  <contact name="Andressa Nascimento - Supply - CB" number="5270" />
   <contact name="Ana Gracez - Supply - CB" number="5230" />
   <contact name="Evandro Schonardie - Logistica" number= "0051993787742"  />
   <contact name="Raquel Beck - DH - CB" number= "5186"  />
@@ -33,7 +32,8 @@
 -->
 <contacts refresh="300">
   <!-- Celulares -->
-  
+  <contact name="Renan Kosvoski - Comercial - CB" number="5420" />
+  <contact name="Luciane Rehbain - ADM Vendas - CB" number="5270" />
   <contact name="Lucas Kunst - Supply - CB" number="5343" />
   <contact name="Camila Shuck - Fundacao" number="5102" />
   <contact name="Jessé Rodrigues - Supply - CB" number= "0051994494921"  />
