@@ -32,6 +32,7 @@
 -->
 <contacts refresh="300">
   <!-- Celulares -->
+  <contact name="Laura Gomes - ADM Vendas" number= "5210"  />
   <contact name="Renan Kosvoski - Comercial - CB" number="5420" />
   <contact name="Luciane Rehbain - ADM Vendas - CB" number="5270" />
   <contact name="Lucas Kunst - Supply - CB" number="5343" />
