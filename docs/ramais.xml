@@ -17,7 +17,6 @@
   <contact name="Nicolas Vargas - TI" number="5002" />
   <contact name="Vanessa Birck - PeD HotMelt - CB" number= "0051999263034"  />
   <contact name="Renan Kosvoski - Comercial - CB" number="5420" />
-  <contact name="Jacira Generato - SMS - TT" number= "3121"  />
   <contact name="Evandro Schonardie - Logistica" number= "5314"  />
   <contact name="Jacira Generato - SMS - TT" number= "0011987537136"  />
   <contact name="Camila Silva - LAP" number="5236" />
@@ -31,6 +30,7 @@
   <contact name="Vinicius Reis - Fiscal" number= "5305"  />
 -->
 <contacts refresh="300">
+  <contact name="Cassiano Neto - ADM - TT" number= "3121"  />
   <!-- Celulares -->
   <contact name="Laura Gomes - ADM Vendas" number= "5210"  />
   <contact name="Renan Kosvoski - Comercial - CB" number="5420" />
