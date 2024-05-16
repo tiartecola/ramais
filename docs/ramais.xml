@@ -3,7 +3,9 @@
   <contact name=" " number=" " />
   <contact name="Central de Resíduos - CB" number="3754" /> (sem cabeamento)
   <contact name="Novo Colaborador - TT" number="3116" />
+<contact name="Vanessa Schneid - Logística" number= "5223"  />
   <contact name="William Bernardini - Exportação" number= "0051989481638"  />
+
   <contact name="Denise Ramão - Supply - CB" number="5251" />
   <contact name="William Rodrigues - LAP - CB" number= "5132"  />
  <contact name="Renan Kosvoski - Comercial - CB" number="5420" />
@@ -17,7 +19,6 @@
   <contact name="Laura Mello - Exportação" number= "0051980186492"  />
   <contact name="Nicolas Vargas - TI" number="5002" />
   <contact name="Vanessa Birck - PeD HotMelt - CB" number= "0051999263034"  />
-  <contact name="Renan Kosvoski - Comercial - CB" number="5420" />
   <contact name="Evandro Schonardie - Logistica" number= "5314"  />
   <contact name="Jacira Generato - SMS - TT" number= "0011987537136"  />
   <contact name="Camila Silva - LAP" number="5236" />
@@ -216,7 +217,7 @@
   
   <contact name="Vanessa Birck - PeD HotMelt - CB" number= "5202"  />
 
-  <contact name="Vanessa Schneid - Logística" number= "5223"  />
+
   <contact name="Victor Britto - Comercial - TT" number= "0011999922501"  />
   <contact name="Vinicius Lucini - PCP - CB" number= "3827"  />
   <contact name="Vinicius Marques - Marketing B2C - TT" number= "3129"  />
