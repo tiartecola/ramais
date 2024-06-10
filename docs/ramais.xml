@@ -15,6 +15,7 @@
   <contact name="Iverson Lima - PeD - CX" number="0051995174535" />
   <contact name="Laura Mello - Exportação" number= "5295"  />
   <contact name="Luciana Felipette - Comercial - CB" number= "5139"  />
+<contact name="Laura Cansi (jogar pra alguem do LAP) - LAP - CB" number= "5395"  />
   <contact name="Luciana Felipette - Comercial - CB" number= "0051997842214"  />
   <contact name="Laura Mello - Exportação" number= "0051980186492"  />
   <contact name="Nicolas Vargas - TI" number="5002" />
@@ -28,11 +29,12 @@
   <contact name="Evandro Schonardie - Logistica" number= "0051993787742"  />
   <contact name="Raquel Beck - DH - CB" number= "5186"  />
   <contact name="Jorge Lemos - Financeiro" number= "5381"  />
-  <contact name="Jeferson Schmidt - Controladoria" number= "3804"  />
+  <contact name="Laura Cansi - PeD" number= "3804"  />
   <contact name="Vinicius Reis - Fiscal" number= "5305"  />
 -->
 <contacts refresh="300">
   <contact name="Cassiano Neto - ADM - TT" number= "3121"  />
+  <contact name="Laura Cansi - PeD" number= "3804"  />
   <!-- Celulares -->
   <contact name="Laura Gomes - ADM Vendas" number= "5210"  />
  <contact name="Tatiane Martins - Logística" number= "5223"  />
@@ -125,7 +127,7 @@
   <contact name="Juliana Thiesen - Cont. Int. Corp." number= "0051999181187"  />
   <contact name="Kamila Glass - Jurídico" number= "5204"  />
   <contact name="Kleber Rodrigues - Comercial - TAT" number= "0016981587503"  />
-  <contact name="Laura Cansi - LAP - CB" number= "5395"  />
+  
   <contact name="Clenir Mairosa - Comercial - CB" number= "5413"  />
   <contact name="Clenir Mairosa - Comercial - CB" number= "0051981252107"  />
   <contact name="Leticia Avrella - Marketing" number= "5134"  />
