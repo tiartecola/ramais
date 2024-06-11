@@ -15,7 +15,7 @@
   <contact name="Iverson Lima - PeD - CX" number="0051995174535" />
   <contact name="Laura Mello - Exportação" number= "5295"  />
   <contact name="Luciana Felipette - Comercial - CB" number= "5139"  />
-<contact name="Laura Cansi (jogar pra alguem do LAP) - LAP - CB" number= "5395"  />
+<contact name="Raphaelle Silva - LAP - CB" number= "5395"  />
   <contact name="Luciana Felipette - Comercial - CB" number= "0051997842214"  />
   <contact name="Laura Mello - Exportação" number= "0051980186492"  />
   <contact name="Nicolas Vargas - TI" number="5002" />
@@ -33,6 +33,7 @@
   <contact name="Vinicius Reis - Fiscal" number= "5305"  />
 -->
 <contacts refresh="300">
+  <contact name="Raphaelle Silva - LAP - CB" number= "5395"/>
   <contact name="Cassiano Neto - ADM - TT" number= "3121"  />
   <contact name="Laura Cansi - PeD" number= "3804"  />
   <!-- Celulares -->
