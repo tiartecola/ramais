@@ -26,7 +26,6 @@
   <contact name="Ana Gracez - Supply - CB" number="5230"/>
   <contact name="Jorge Lemos - Financeiro" number="5381"/>
   <contact name="Raquel Beck - DH - CB" number="5186"/>
-  <contact name="Giovana Telles - Comercial - CB" number="5420"/>
   <contact name="Camila Silva - LAP" number="5236"/>
   <contact name="Evandro Schonardie - Logistica" number="5314"/>
 
@@ -71,6 +70,8 @@
   <contact name="Brenda Rosa - ADM Vendas - CB" number="3831"/>
   <contact name="Laura Gomes - ADM Vendas - CB" number="5210"/>
   <contact name="Luciane Rehbain - ADM Vendas - CB" number="5270"/>
+
+  <contact name="Giovana Telles - Comercial - CB" number="5420"/>
 
   <contact name="André Kopeginski - Controladoria" number="5298"/>
   <contact name="Andreiser Oliveira - Controladoria" number="5213"/>
