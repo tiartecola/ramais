@@ -18,7 +18,6 @@
   <contact name="Denise Ramão - Supply" number="5251"/>
   <contact name="Nicolas Vargas - TI" number="5002"/>
   <contact name="William Rodrigues - LAP - CB" number="5132"/>
-  <contact name="Shirley Schirmann - Financeiro" number="5219"/>
   <contact name="Laura Mello - Exportação" number="5295"/>
   <contact name="Luciana Felipette - Comercial - CB" number="5139"/>
   <contact name="Vinicius Reis - Fiscal" number="5305"/>
@@ -72,6 +71,8 @@
   <contact name="Luciane Rehbain - ADM Vendas - CB" number="5270"/>
 
   <contact name="Giovana Telles - Comercial - CB" number="5420"/>
+  <contact name="Joice Diniz - Comercial" number="5219"/>
+  <contact name="Salete Oliveira - Comercial" number="5122" />
 
   <contact name="André Kopeginski - Controladoria" number="5298"/>
   <contact name="Andreiser Oliveira - Controladoria" number="5213"/>
@@ -278,7 +279,7 @@
   <contact name="Walkiria do Vale - Comercial - TT" number= "3128"  />
   <contact name="Walkiria do Vale - Comercial - TT" number= "0011963308681"  />
   <contact name="Keila Arruda - PeD - TT" number="3132" />
-  <contact name="Leonardo Messaggi - Financeiro" number="5122" />
+  
   <contact name="Alexandre Maicá - DH - CX" number="3603" />
   <contact name="Matheus Geyer - Manutenção - CB" number="5375" />
   <contact name="SETOR DH - CB" number="5316" />
