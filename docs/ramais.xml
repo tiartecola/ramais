@@ -20,14 +20,14 @@
   <contact name="Nicolas Vargas - TI" number="5002"/>
   <contact name="William Rodrigues - LAP - CB" number="5132"/>
   <contact name="Laura Mello - Exportação" number="5295"/>
-  <contact name="Samantha Moraes - PCP - CB" number= "3710"  />
+  
 
   <contact name="Luciana Felipette - Comercial - CB" number="5139"/>
   <contact name="Vinicius Reis - Fiscal" number="5305"/>
   <contact name="Ana Gracez - Supply - CB" number="5230"/>
   <contact name="Luciane Rehbain - ADM Vendas - CB" number="5270"/>
   
-  <contact name="Vanessa Birck - PeD HotMelt - CB" number= "5202"  />
+  
 <contact name="Francine Cas - LCQ - CB" number= "5307"  />
 <contact name="Silviana Thomas - DH - CB" number= "5166"/>
 
@@ -113,6 +113,7 @@
 
   <contact name="Raphaelle Silva - LAP - CB" number="5395"/>
   <contact name="Anna Silva - LAP - CB" number="5236"/>
+  <contact name="Ramon Maus - PCP - CB" number= "3710"  />
 
   <contact name="Tatiane Martins - Logística" number="5223"/>
 
@@ -120,7 +121,7 @@
 
   <contact name="Alessandra Lemos - PeD Laminados - CB" number="5361"/>
   <contact name="Ana Sasamori - PeD Laminados - CB" number="5385"/>
-
+<contact name="Nicole Silva - PeD HotMelt - CB" number= "5202"  />
   <contact name="Carina Eltz - Supply - CB" number="5240"/>
   <contact name="Lucas Kunst - Supply - CB" number="5343"/>
   <contact name="Derli Nascimento - Supply - CB" number="5121"/>
