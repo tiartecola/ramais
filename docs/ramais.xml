@@ -1,5 +1,5 @@
 <!--
-  https://tiartecola.github.io/ramais/ramais.xml
+    https://tiartecola.github.io/ramais/ramais.xml
 
   CELULARES
   <contact name="William Bernardini - Exportação" number="0051989481638"/>
@@ -28,7 +28,7 @@
   <contact name="Luciane Rehbain - ADM Vendas - CB" number="5270"/>
   
   
-<contact name="Francine Cas - LCQ - CB" number= "5307"  />
+  <contact name="Francine Cas - LCQ - CB" number= "5307"  />
 
 
   <contact name="Jorge Lemos - Financeiro" number="5381"/>
@@ -45,24 +45,32 @@
 -->
 
 <contacts refresh="300">
-  <!-- FUNCIONALIDADES / DIVERSOS -->
-  <contact name="*8 - PUXAR LIGAÇÃO" number="*8"/>
-  <contact name="! EMERGÊNCIA / SEGURANÇA" number="5193"/>
-  <contact name="Refeitório - CB" number="5312"/>
-  <contact name="Portaria - CB" number="3828"/>
-  <contact name="Portaria - CB" number="3709"/>
-  <!-- CELULARES -->
-  <contact name="Jessé Rodrigues - Supply - CB" number= "0051994494921"/>
-  <contact name="Adilson Santos - Comercial - CB" number="0051991337454"/>
-  <contact name="Alessandra Soares - DH - TT" number="0015981331383"/>
-  <contact name="Francine Smialowski - Supply" number= "0051996063595"/>
-  <contact name="Alvaro Neto - Comercial - TT" number="0075991222726"/>
-  <contact name="Marco Santos - Controladoria - CB" number="0051980560381"/>
-  <contact name="Camila Schuck - Fundacao - CB" number="0051989592514"/>
-  <contact name="Cintia Rodrigues - Juridico - CB" number="0051992962062"/>
-  <contact name="Cristian Krug - Seguranca - CB" number="0051999152623"/>
-  <contact name="Daiane Braga - Vendas Internas - CB" number="0051980419519"/>
-  <contact name="Diego Carvalho - Projetos" number="0051992961322"/>
+    <!-- FUNCIONALIDADES / DIVERSOS -->
+        <contact name="*8 - PUXAR LIGACAO" number="*8"/>
+        <contact name="! EMERGENCIA !" number="5193"/>
+    <!-- CELULARES -->
+    <!-- CAMPO BOM -->
+        <contact name="Portaria (móvel) | CB" number="3709"/>
+        <contact name="Portaria | CB" number="3828"/>
+
+        <contact name="Refeitório | CB" number="5312"/>
+    <!-- CAXIAS -->
+    <!-- TATUÍ -->
+
+
+        <contact name="Jesse Rodrigues - Supply | CB" number= "0051994494921"/>
+  
+    <contact name="Jessé Rodrigues - Supply - CB" number= "0051994494921"/>
+    <contact name="Adilson Santos - Comercial - CB" number="0051991337454"/>
+    <contact name="Alessandra Soares - DH - TT" number="0015981331383"/>
+    <contact name="Francine Smialowski - Supply" number= "0051996063595"/>
+    <contact name="Alvaro Neto - Comercial - TT" number="0075991222726"/>
+    <contact name="Marco Santos - Controladoria - CB" number="0051980560381"/>
+    <contact name="Camila Schuck - Fundacao - CB" number="0051989592514"/>
+    <contact name="Cintia Rodrigues - Juridico - CB" number="0051992962062"/>
+    <contact name="Cristian Krug - Seguranca - CB" number="0051999152623"/>
+    <contact name="Daiane Braga - Vendas Internas - CB" number="0051980419519"/>
+    <contact name="Diego Carvalho - Projetos" number="0051992961322"/>
 <!--   <contact name="Diogo Pedro - LAP - TT" number="0011966232224"/> -->
   <contact name="Débora Schmitt - ADM Vendas - CB" number="0051981489766"/>
   <contact name="Marcio Schons - TI" number="0051997842151"/>
@@ -74,7 +82,9 @@
   <contact name="Carina Eltz - Supply - CB" number="0051994828747"/>
   <contact name="Guilherme Silva - Comercial" number="0051980160527"/>
   <contact name="Rodrigo Benevides - Comercial - TT" number="0011988461333"/>
-  <!-- CAMPO BOM -->
+  
+
+
   <contact name="Indaiara Ouriques - ADM Vendas - CB" number="3831"/>
   <contact name="Kauany Matos  |  ADM Vendas  |  CB" number= "3832"/>
   <contact name="Laura Gomes - ADM Vendas - CB" number="5210"/>
