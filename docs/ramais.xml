@@ -15,6 +15,7 @@
 
   CAMPO BOM
   <contact name="Setor - Fundação" number="5218"/>
+    <contact name="Joice Diniz - Comercial" number="5219"/>
   <contact name="Central de Resíduos - CB" number="3754"/>
   <contact name="Denise Ramão - Supply" number="5251"/>
   <contact name="Nicolas Vargas - TI" number="5002"/>
@@ -43,14 +44,16 @@
   CAXIAS
   <contact name="Alexandre Maicá - ADM - CX" number="3601"/>
 -->
+<!--
+LIVRES
 
+-->
 <contacts refresh="300">
     <!-- FUNCIONALIDADES / DIVERSOS -->
         <contact name="*8 - PUXAR LIGACAO" number="*8"/>
         <contact name="! EMERGENCIA !" number="5193"/>
     <!-- CELULARES -->
     <!-- CAMPO BOM -->
-        <contact name="Portaria (móvel) | CB" number="3709"/>
         <contact name="Portaria | CB" number="3828"/>
 
         <contact name="Refeitório | CB" number="5312"/>
@@ -91,7 +94,8 @@
   
 
   <contact name="Giovana Telles - Comercial - CB" number="5420"/>
-  <contact name="Joice Diniz - Comercial" number="5219"/>
+
+ 
   <contact name="Salete Oliveira - Comercial" number="5122" />
 
   <contact name="Marco Santos - Controladoria" number="5298"/>
