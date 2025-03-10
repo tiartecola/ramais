@@ -53,14 +53,16 @@ LIVRES
         <contact name="*8  PUXAR LIGACAO" number="*8"/>
         <contact name="!  EMERGENCIA  !" number="5193"/>
     <!-- CELULARES -->
-        <contact name="Jakson Silva | Comercial - TT" number="0011966232224"/>
+        <contact name="Hevair Silva | Comercial - TT" number="0011966232224"/>
     <!-- CAMPO BOM -->
         <contact name="Portaria - CB" number="3828"/>
         <contact name="Refeitório - CB" number="5312"/>
 
+        <contact name="Julia Alves | Juridico - CB" number="5245"/>
+
         <contact name="Gabriela Hoss | Marketing - CB" number="5295"/>
 
-        <contact name="Adriana Nicolini | PeD - CB" number= "5349"/>
+        <contact name="Adriana Nicolini | PeD - CB" number="5349"/>
 
         <contact name="Cristiane Both | Qualidade - CB" number="3704"/>
     <!-- CAXIAS -->
@@ -291,7 +293,7 @@ LIVRES
   
   <contact name="Silvana Roos - ADM Vendas - CB" number= "5419"  />
   
-<!--   <contact name="Thaina Moura - Jurídico" number= "5245"  /> -->
+
   <contact name="Tiago Veloso - Comercial - CB" number= "0051994109293"  />
   <contact name="Vagner Reis - PCP - CB" number= "5224"  />
   <contact name="Vagner Reis - PCP - CB" number= "0051997438076"  />
