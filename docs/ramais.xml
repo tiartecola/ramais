@@ -26,7 +26,7 @@
   <contact name="Laura Mello - Exportação" number="5295"/>
   
 
-  <contact name="Luciana Felipette - Comercial - CB" number="5139"/>
+  
   <contact name="Vinicius Reis - Fiscal" number="5305"/>
   <contact name="Ana Gracez - Supply - CB" number="5230"/>
   <contact name="Luciane Rehbain - ADM Vendas - CB" number="5270"/>
@@ -59,9 +59,13 @@ LIVRES
         <contact name="Hevair Silva | Comercial - TT" number="0011966232224"/>
     <!-- CAMPO BOM -->
         <contact name="Portaria - CB" number="3828"/>
-        <contact name="Refeitório - CB" number="5312"/>
-
+        <contact name="Refeitorio - CB" number="5312"/>
+    
         <contact name="Julia Alves | Juridico - CB" number="5245"/>
+
+        <contact name="Caroline Haag | LAP - CB" number= "5350"/>
+
+        <contact name="Janete Bonini | LCQ - CB" number="5139"/>
 
         <contact name="Gabriela Hoss | Marketing - CB" number="5295"/>
 
@@ -194,7 +198,7 @@ LIVRES
   
   <contact name="Murilo Oliveira - Service" number= "5133"  />
   <contact name="Jairo Korndoerfer - Marketing" number= "3808"  />
-  <contact name="Janete Bonini - LAP - CB" number= "5350"  />
+  
   
   <contact name="Jessé Rodrigues - Supply - CB" number= "5217"  />
   <contact name="Jesus Gomes - Comercial - CB" number= "5383"  />
