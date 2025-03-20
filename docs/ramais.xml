@@ -60,10 +60,13 @@ LIVRES
     <!-- CAMPO BOM -->
         <contact name="Portaria - CB" number="3828"/>
         <contact name="Refeitorio - CB" number="5312"/>
+
+        <contact name="Camila Thimotheo | DH - CB" number="5166"/>
+        <contact name="Caroline Wust | DH - CB" number= "5374"/>
     
         <contact name="Julia Alves | Juridico - CB" number="5245"/>
 
-        <contact name="Caroline Haag | LAP - CB" number= "5350"/>
+        <contact name="Caroline Haag | LAP - CB" number="5350"/>
 
         <contact name="Janete Bonini | LCQ - CB" number="5139"/>
 
@@ -122,8 +125,8 @@ LIVRES
   
 
   <contact name="Katia Moraes - DH - CB" number="5233"/>
-  <contact name="Amanda Gomes - DH - CB" number= "5166"/>
-  <contact name="Daniel Silva - DH - CB" number= "5324"  />
+  
+<!--   <contact name="Daniel Silva - DH - CB" number= "5324"  /> -->
   
   <contact name="Eduardo Gonçalves - Diretoria - CB" number="5259"/>
 
@@ -270,7 +273,7 @@ LIVRES
   <contact name="Rodrigo Dece - Comercial - TT" number= "3107"  />
 <!--   <contact name="Rogério Schio - SP" number= "0047992142266"  />
   <contact name="Rogério Schio - SP" number= "5118"  /> -->
-  <contact name="Caroline Wust - DH - CB" number= "5374"  />
+  
   <contact name="Caroline Wust - DH - CB" number= "0051998009887"  />
   <contact name="Rudinei Silva - PCP - CB" number= "5296"  />
   <contact name="Rubia Pimentel - ADM - CX" number= "3605"  />
