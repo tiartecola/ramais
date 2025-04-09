@@ -58,6 +58,8 @@ LIVRES
     <!-- CELULARES -->
         <contact name="Hevair Silva | Comercial - TT" number="0011966232224"/>
         <contact name="Vaner Andrade | Comercial - TT" number="0011999922501"/>
+        <contact name="Setor ADM - CX" number="005195174535"/>
+        <contact name="Luiza Lima - LAP" number= "0051993278826"/>
     <!-- CAMPO BOM -->
         <contact name="Portaria - CB" number="3828"/>
         <contact name="Refeitorio - CB" number="5312"/>
@@ -286,7 +288,7 @@ LIVRES
   <contact name="Aline Becker - Exportação" number= "5215"  />
   <contact name="Sander Pacheco - Comercial - TT" number= "0048988701062"  />
   <contact name="Sergio Soares - Comercial - TT" number= "0011964739637"  />
-  <contact name="Setor ADM - CX" number= "0051993278826"  />
+  
   <contact name="Setor ADM Vendas - CB" number= "5144"  />
   <contact name="Setor DH - CB" number= "0051999748974"  />
   <contact name="Setor Expedição Laminados - CB" number= "3755"  />
