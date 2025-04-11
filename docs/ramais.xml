@@ -9,7 +9,7 @@
   <contact name="Luciana Felipette - Comercial - CB" number="0051997842214"/>
   <contact name="Laura Mello - Exportação" number="0051980186492"/>
   <contact name="Vanessa Birck - PeD HotMelt - CB" number="0051999263034"/>
-  <contact name="Leticia Avrella - Marketing" number= "0051980419523"  />
+  
   <contact name="Jacira Generato - SMS - TT" number= "0011987537136"/>
   <contact name="Evandro Schonardie - Logistica" number= "0051993787742"/>
   <contact name="Victor Britto - Comercial - TT" number= "0011999922501" />
@@ -17,7 +17,7 @@
   CAMPO BOM
   <contact name="Setor - Fundação" number="5218"/>
     <contact name="Joice Diniz - Comercial" number="5219"/>
-<contact name="Leticia Avrella - Marketing" number= "5134"  />
+
 
   <contact name="Central de Resíduos - CB" number="3754"/>
   <contact name="Denise Ramão - Supply" number="5251"/>
@@ -60,6 +60,7 @@ LIVRES
         <contact name="Vaner Andrade | Comercial - TT" number="0011999922501"/>
         <contact name="Administrativo - CX" number="005195174535"/>
         <contact name="Luiza Lima | LAP - CB" number= "0051993278826"/>
+        <contact name="Sheila Schepp | Marketing - CB" number="0051980419523"/>
     <!-- CAMPO BOM -->
         <contact name="Portaria - CB" number="3828"/>
         <contact name="Refeitorio - CB" number="5312"/>
@@ -77,6 +78,7 @@ LIVRES
         <contact name="Janete Bonini | LCQ - CB" number="5139"/>
 
         <contact name="Gabriela Hoss | Marketing - CB" number="5295"/>
+        <contact name="Sheila Schepp | Marketing - CB" number="5134"/>
 
         <contact name="Adriana Nicolini | PeD - CB" number="5349"/>
 
