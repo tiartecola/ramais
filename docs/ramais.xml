@@ -36,7 +36,7 @@
   <contact name="Francine Cas - LCQ - CB" number= "5307"  />
 
 
-  <contact name="Jorge Lemos - Financeiro" number="5381"/>
+  
   <contact name="Raquel Beck - DH - CB" number="5186"/>
   <contact name="Camila Silva - LAP" number="5236"/>
   <contact name="Evandro Schonardie - Logistica" number="5314"/>
@@ -60,7 +60,7 @@ LIVRES
         <contact name="Hevair Silva | Comercial - TT" number="0011966232224"/>
         <contact name="Vaner Andrade | Comercial - TT" number="0011999922501"/>
         <contact name="Administrativo - CX" number="005195174535"/>
-        <contact name="Luiza Lima | LAP - CB" number= "0051993278826"/>
+        <contact name="Luiza Lima | LAP - CB" number="0051993278826"/>
         <contact name="Sheila Schepp | Marketing - CB" number="0051980419523"/>
     <!-- CAMPO BOM -->
         <contact name="Portaria - CB" number="3828"/>
@@ -71,6 +71,8 @@ LIVRES
         <contact name="Bianca Adams | DH - CB" number="5324"/>
 
         <contact name="Renan Caxambu | Expedicao - CB" number="3700"/>
+
+        <contact name="Jorge Lemos | Financeiro - CB" number="5381"/>
     
         <contact name="Julia Alves | Juridico - CB" number="5245"/>
 
