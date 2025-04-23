@@ -22,14 +22,14 @@
 <contact name="Camila Shuck - Fundação" number="5102"/>
   <contact name="Central de Resíduos - CB" number="3754"/>
   <contact name="Denise Ramão - Supply" number="5251"/>
-  <contact name="Nicolas Vargas - TI" number="5002"/>
+  
   <contact name="William Rodrigues - LAP - CB" number="5132"/>
   <contact name="Laura Mello - Exportação" number="5295"/>
   
 
   
   <contact name="Vinicius Reis - Fiscal" number="5305"/>
-  <contact name="Ana Gracez - Supply - CB" number="5230"/>
+  
   <contact name="Luciane Rehbain - ADM Vendas - CB" number="5270"/>
    <contact name="Emilly Santos - Financeiro" number="5325"/>
   
@@ -65,6 +65,7 @@ LIVRES
     <!-- CAMPO BOM -->
         <contact name="Portaria - CB" number="3828"/>
         <contact name="Refeitorio - CB" number="5312"/>
+        <contact name="TI - CB" number="5000"/>
 
         <contact name="Camila Thimotheo | DH - CB" number="5166"/>
         <contact name="Caroline Wust | DH - CB" number="5374"/>
@@ -81,12 +82,19 @@ LIVRES
 
         <contact name="Janete Bonini | LCQ - CB" number="5139"/>
 
+        <contact name="Renato Filho | Logistica - CB" number="5230"/>
+
         <contact name="Gabriela Hoss | Marketing - CB" number="5295"/>
         <contact name="Sheila Schepp | Marketing - CB" number="5134"/>
 
         <contact name="Adriana Nicolini | PeD - CB" number="5349"/>
 
         <contact name="Cristiane Both | Qualidade - CB" number="3704"/>
+
+        <contact name="Heleno Junior | TI - CB" number="5004"/>
+        <contact name="Jonas Schlemmer | TI - CB" number="5001"/>
+        <contact name="Marcio Schons | TI - CB" number="5266"/>
+        <contact name="Matheus Macedo | TI - CB" number="5002"/>
     <!-- CAXIAS -->
     <!-- TATUÍ -->
 
@@ -172,10 +180,7 @@ LIVRES
   <contact name="Ederson Marques - Supply - CB" number="5228"/>
   <contact name="Jonas Leidens - Supply - CB" number="5323"/>
 
-  <contact name="Setor - TI" number="5000"/>
-  <contact name="Marcio Schons - TI" number="5266"/>
-  <contact name="Heleno Junior - TI" number="5004"/>
-  <contact name="Jonas Schlemmer - TI" number="5001"/>
+  
   <!-- SÃO PAULO -->
   <contact name="Cassiano Neto - ADM - TT" number="3121"/>
   <!-- TATUÍ -->
