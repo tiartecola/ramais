@@ -43,7 +43,7 @@
 
   TATUÍ
   <contact name="Backup - TT" number="3116"/>
-  <contact name="Vinicius Marques - Marketing B2C - TT" number= "3129"/>
+  
 
   CAXIAS
   <contact name="Alexandre Maicá - ADM - CX" number="3601"/>
@@ -98,6 +98,7 @@ LIVRES
         <contact name="Matheus Macedo | TI - CB" number="5002"/>
     <!-- CAXIAS -->
     <!-- TATUÍ -->
+        <contact name="Luiz Silva | Qualidade - TT" number="3129"/>
 
 <!-- ____________________________________________________________________ -->
         <contact name="Jesse Rodrigues - Supply | CB" number="0051994494921"/>
