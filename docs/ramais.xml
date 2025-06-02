@@ -33,12 +33,7 @@
   <contact name="Vinicius Reis - Fiscal" number="5305"/>
   
   <contact name="Luciane Rehbain - ADM Vendas - CB" number="5270"/>
-   
-  
-  <contact name="Francine Cas - LCQ - CB" number= "5307"  />
-
-
-  
+ 
   <contact name="Raquel Beck - DH - CB" number="5186"/>
   <contact name="Camila Silva - LAP" number="5236"/>
   <contact name="Evandro Schonardie - Logistica" number="5314"/>
@@ -71,7 +66,9 @@ LIVRES
         <contact name="Portaria - CB" number="3828"/>
         <contact name="Refeitorio - CB" number="5312"/>
         <contact name="TI - CB" number="5000"/>
-
+    
+        <contact name="Tatiana Colliselli | Contabilidade - CB" number="5307"/>
+    
         <contact name="Camila Thimotheo | DH - CB" number="5166"/>
         <contact name="Caroline Wust | DH - CB" number="5374"/>
         <contact name="Bianca Adams | DH - CB" number="5324"/>
