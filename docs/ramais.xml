@@ -111,7 +111,7 @@ LIVRES
   
     <contact name="Jessé Rodrigues - Supply - CB" number= "0051994494921"/>
     <contact name="Adilson Santos - Comercial - CB" number="0051991337454"/>
-    <contact name="Alessandra Soares - DH - TT" number="0015981331383"/>
+<!--     <contact name="Alessandra Soares - DH - TT" number="0015981331383"/> -->
     <contact name="Francine Smialowski - Supply" number= "0051996063595"/>
     <contact name="Alvaro Neto - Comercial - TT" number="0075991222726"/>
     <contact name="Marco Santos - Controladoria - CB" number="0051980560381"/>
@@ -191,7 +191,7 @@ LIVRES
   <!-- SÃO PAULO -->
   <contact name="Cassiano Neto - ADM - TT" number="3121"/>
   <!-- TATUÍ -->
-  <contact name="Alessandra Soares - DH - TT" number="3110"/>
+<!--   <contact name="Alessandra Soares - DH - TT" number="3110"/> -->
   <contact name="Ariane Soares - DH - TT" number="3117"/>
 
   <contact name="Diego Sebastião - Industrial - TT" number="3119"/>
