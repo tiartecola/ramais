@@ -84,7 +84,6 @@ LIVRES
 
         <contact name="Jonas Ferreira | PCP - CB" number="5296"/>
 
-        
 <!--         <contact name="Sergio Alves | LAP - CB" number= "5124"/> -->
 
         <contact name="Janete Bonini | LCQ - CB" number="5139"/>
@@ -96,6 +95,9 @@ LIVRES
 
         <contact name="Adriana Nicolini | PeD - CB" number="5349"/>
 
+        <contact name="Daniel Dalbosco | Planejamento - CB" number="5371"/>
+        <contact name="Jesse Rodrigues | Planejamento - CB" number="5217"/>
+
         <contact name="Cristiane Both | Qualidade - CB" number="3704"/>
 
         <contact name="Heleno Junior | TI - CB" number="5004"/>
@@ -105,11 +107,10 @@ LIVRES
     <!-- CAXIAS -->
     <!-- TATUÍ -->
         <contact name="Luiz Silva | Qualidade - TT" number="3129"/>
-
-<!-- ____________________________________________________________________ -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------- -->
         <contact name="Jesse Rodrigues - Supply | CB" number="0051994494921"/>
   
-    <contact name="Jessé Rodrigues - Supply - CB" number= "0051994494921"/>
+    
     <contact name="Adilson Santos - Comercial - CB" number="0051991337454"/>
 <!--     <contact name="Alessandra Soares - DH - TT" number="0015981331383"/> -->
     <contact name="Francine Smialowski - Supply" number= "0051996063595"/>
@@ -227,7 +228,7 @@ LIVRES
   <contact name="Jairo Korndoerfer - Marketing" number= "3808"  />
   
   
-  <contact name="Jessé Rodrigues - Supply - CB" number= "5217"  />
+ 
   <contact name="Jesus Gomes - Comercial - CB" number= "5383"  />
   <contact name="Jesus Gomes - Comercial - CB" number= "0051981860141"  />
   <contact name="Joel Padilha - Motorista" number= "0051991977269"  />
@@ -350,7 +351,7 @@ LIVRES
   <contact name="Silvana Biazus - PeD - CX" number="3602" />
   
   
-  <contact name="Diego Carvalho - Projetos - CB" number="5371" />
+  
   
   <contact name="Daiana Caloni - Contabilidade - CB" number="5108" />
   
