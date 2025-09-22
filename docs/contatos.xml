@@ -72,10 +72,6 @@ LIVRES
         <contact name="Vagner Reis - PCP - CB - MÓVEL" number= "3707"  />
         <contact name="Vinicius Lucini - PCP - CB" number= "3827"  />
 
-<!-- CONTROLES INTERNOS - CB -->
-<!--         <contact name="Danuza Paesi - Controles Internos - CB" number="5372"/> -->
-
-
 <!-- CONTROLADORIA - CB -->
         <contact name="Marco Santos - Controladoria - CB" number="5298"/>
         <contact name="Andreiser Oliveira - Controladoria - CB" number="5213"/>
@@ -191,7 +187,6 @@ LIVRES
         <contact name="Joseane Hochscheidt - Contabilidade - CB" number= "5303"  />
         <contact name="Daiana Caloni - Contabilidade - CB" number="5108" />
         
-    
 <!-- DH - CB -->        
         <contact name="Vanda Oliveira - DH - CB" number="5166"/>
         <contact name="Caroline Wust - DH - CB" number="5374"/>
@@ -217,7 +212,6 @@ LIVRES
 
 <!-- PCP - CB -->
         <contact name="Jonas Ferreira - PCP - CB" number="5296"/>
-
 
 <!-- LCQ - CB -->
         <contact name="Setor LCQ - CB" number= "3706"  />
@@ -256,6 +250,9 @@ LIVRES
         <contact name="Jonas Schlemmer - TI - CB" number="5001"/>
         <contact name="Marcio Schons - TI - CB" number="5266"/>
         <contact name="Matheus Macedo - TI - CB" number="5002"/>
+
+<!-- BACKUP - CB -->
+<!-- <contact name="Danuza Paesi - Controles Internos - CB" number="5372"/> -->
         
     <!-- CAMPO BOM -->
 
