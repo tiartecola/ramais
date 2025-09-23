@@ -125,6 +125,7 @@ LIVRES
         <contact name="Ricardo Reis - Fiscal - CB" number= "5209"  />
         <contact name="Darlei Hoffmann - Fiscal - CB" number="5278" />
         <contact name="Vinicius Reis - Fiscal - CB" number="5305"/>
+        <contact name="Gustavo Bueno - Fiscal - CB" number="5372"/>
 
 <!-- COMERCIAL - CB -->
         <contact name="Giovana Telles - Comercial - CB" number="5420"/>
@@ -252,7 +253,7 @@ LIVRES
         <contact name="Matheus Macedo - TI - CB" number="5002"/>
 
 <!-- BACKUP - CB -->
-<!-- <contact name="Danuza Paesi - Controles Internos - CB" number="5372"/> -->
+
         
     <!-- CAMPO BOM -->
 
