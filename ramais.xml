@@ -78,7 +78,7 @@ LIVRES
 
 <!-- CONTROLADORIA - CB -->
         <contact name="Marco Santos - Controladoria - CB" number="5298"/>
-        <contact name="Andreiser Oliveira - Controladoria - CB" number="5213"/>
+<!--         <contact name="Andreiser Oliveira - Controladoria - CB" number="5213"/> -->
         <contact name="Igor Sobrosa - Controladoria - CB" number="5128"/>
         <contact name="Felipe Bittencourt - Controladoria - CB" number= "3822"/>
         
@@ -136,7 +136,7 @@ LIVRES
         <contact name="Salete Oliveira - Comercial - CB" number="5122"/>
         <contact name="Suzane Santos - Comercial - CB" number="5416"/>
         <contact name="Jesus Gomes - Comercial - CB" number= "5383"/>
-<!--         <contact name="Tiago Ferreira - Comercial - CB" number= "5413"/> -->
+        <contact name="Jéssica Machado - Comercial - CB" number= "5413"/>
         <contact name="Marzane Sommer - Comercial - CB" number= "5425"/>
         <contact name="Michele Bender - Comercial - CB" number= "5229"/>
         <contact name="Joice Diniz - Comercial" number="5219"/>
@@ -188,7 +188,7 @@ LIVRES
 <!-- CONTABILIDADE - CB -->        
         <contact name="Tatiana Colliselli - Contabilidade - CB" number="5307"/>
         <contact name="João Spaniol - Contabilidade - CB" number= "3823"/>
-        <contact name="Joseane Hochscheidt - Contabilidade - CB" number= "5303"/>
+        <contact name="Dagmari Lippert - Contabilidade - CB" number= "5303"/>
         <contact name="Daiana Caloni - Contabilidade - CB" number="5108"/>
         
     
@@ -211,7 +211,7 @@ LIVRES
         <contact name="Karla Silva - Financeiro - CB" number="5325"/>
 
 <!-- JURÍDICO - CB -->    
-        <contact name="Julia Alves - Juridico - CB" number="5245"/>
+        <contact name="Dauane Dias - Juridico - CB" number="5245"/>
         <contact name="Kamila Glass - Jurídico - CB" number= "5204"/>
         <contact name="Cintia Rodrigues - Juridico - CB" number="5258"/>
 
@@ -244,8 +244,8 @@ LIVRES
         <contact name="Daniela Schmitt - PeD - CB" number="5223"/>
 
 <!-- PLANEJAMENTO - CB -->
-        <contact name="Daniel Dalbosco - Planejamento - CB" number="5371"/>
-        <contact name="Jesse Rodrigues - Planejamento - CB" number="5217"/>
+        <!-- <contact name="Daniel Dalbosco - Planejamento - CB" number="5371"/> -->
+        <!-- <contact name="Jesse Rodrigues - Planejamento - CB" number="5217"/> -->
 
 <!-- QUALIDADE - CB -->
         <contact name="Cristiane Both - Qualidade - CB" number="3704"/>

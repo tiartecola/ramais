@@ -72,10 +72,6 @@ LIVRES
         <contact name="Vagner Reis - PCP - CB - MÓVEL" number= "3707"  />
         <contact name="Vinicius Lucini - PCP - CB" number= "3827"  />
 
-<!-- CONTROLES INTERNOS - CB -->
-<!--         <contact name="Danuza Paesi - Controles Internos - CB" number="5372"/> -->
-
-
 <!-- CONTROLADORIA - CB -->
         <contact name="Marco Santos - Controladoria - CB" number="5298"/>
         <contact name="Andreiser Oliveira - Controladoria - CB" number="5213"/>
@@ -129,6 +125,7 @@ LIVRES
         <contact name="Ricardo Reis - Fiscal - CB" number= "5209"  />
         <contact name="Darlei Hoffmann - Fiscal - CB" number="5278" />
         <contact name="Vinicius Reis - Fiscal - CB" number="5305"/>
+        <contact name="Gustavo Bueno - Fiscal - CB" number="5372"/>
 
 <!-- COMERCIAL - CB -->
         <contact name="Giovana Telles - Comercial - CB" number="5420"/>
@@ -191,9 +188,8 @@ LIVRES
         <contact name="Joseane Hochscheidt - Contabilidade - CB" number= "5303"  />
         <contact name="Daiana Caloni - Contabilidade - CB" number="5108" />
         
-    
 <!-- DH - CB -->        
-        <contact name="Camila Thimotheo - DH - CB" number="5166"/>
+        <contact name="Vanda Oliveira - DH - CB" number="5166"/>
         <contact name="Caroline Wust - DH - CB" number="5374"/>
         <contact name="Bianca Adams - DH - CB" number="5324"/>
         <contact name="Katia Moraes - DH - CB" number="5233"/>
@@ -218,7 +214,6 @@ LIVRES
 <!-- PCP - CB -->
         <contact name="Jonas Ferreira - PCP - CB" number="5296"/>
 
-
 <!-- LCQ - CB -->
         <contact name="Setor LCQ - CB" number= "3706"  />
         <contact name="Janete Bonini - LCQ - CB" number="5139"/>
@@ -238,7 +233,7 @@ LIVRES
         <contact name="Sheila Schepp - Marketing - CB" number="5134"/>
         <contact name="Gabriela Oliveira - Marketing - CB" number= "5301"  />
         <contact name="Jairo Korndoerfer - Marketing - CB" number= "3808"  />
-<!--         <contact name="João Seibel - Marketing - CB" number= "3824"  /> -->
+        <contact name="Letícia Oliveira - Marketing - CB" number= "3824"  /> 
 
 <!-- PED - CB -->        
         <contact name="Adriana Nicolini - PeD - CB" number="5349"/>
@@ -256,6 +251,9 @@ LIVRES
         <contact name="Jonas Schlemmer - TI - CB" number="5001"/>
         <contact name="Marcio Schons - TI - CB" number="5266"/>
         <contact name="Matheus Macedo - TI - CB" number="5002"/>
+
+<!-- BACKUP - CB -->
+
         
     <!-- CAMPO BOM -->
 
