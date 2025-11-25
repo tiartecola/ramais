@@ -129,7 +129,6 @@ LIVRES
         <contact name="Marileni Saraiva - Fiscal - CB" number= "5315"/>
         <contact name="Ricardo Reis - Fiscal - CB" number= "5209"/>
         <contact name="Darlei Hoffmann - Fiscal - CB" number="5278"/>
-        <contact name="Vinicius Reis - Fiscal - CB" number="5305"/>
 
 <!-- COMERCIAL - CB -->
         <contact name="Giovana Telles - Comercial - CB" number="5420"/>
@@ -490,7 +489,7 @@ LIVRES
 
 <!-- BACKUP -->
         <contact name="Jonas Rodrigues" number= "0051998735078"/>
-        <contact name="Elton Santos - Comercial - TT" number= "0011939373862"/>
+        <!-- <contact name="Elton Santos - Comercial - TT" number= "0011939373862"/> -->
 
     <!-- CAMPO BOM -->
 
