@@ -88,8 +88,7 @@ LIVRES
         <contact name="Cesar Cruz - Almoxarifado - CB" number="3708"/>
 
 <!-- PED AQUOSOS - CB -->
-        <contact name="Natalia Medeiros - PeD Aquosos - CB" number= "5227"/>
-        <contact name="Caroline Baum - PeD Aquosos - CB" number="5326"/>
+        <contact name="Caroline Baum - PeD Aquosos - CB" number="5392"/>
         <contact name="Setor PeD Aquosos - CB" number= "5347"/>
 
 <!-- PED LAMINADOS - CB -->
@@ -129,7 +128,6 @@ LIVRES
         <contact name="Marileni Saraiva - Fiscal - CB" number= "5315"/>
         <contact name="Ricardo Reis - Fiscal - CB" number= "5209"/>
         <contact name="Darlei Hoffmann - Fiscal - CB" number="5278"/>
-        <contact name="Vinicius Reis - Fiscal - CB" number="5305"/>
 
 <!-- COMERCIAL - CB -->
         <contact name="Giovana Telles - Comercial - CB" number="5420"/>
@@ -281,6 +279,8 @@ LIVRES
 
 <!-- BACKUP - TT -->
         <contact name="Backup - TT" number="3116"/>
+        <contact name="Natalia Medeiros - PeD Aquosos - CB" number= "5227"/>
+        <contact name="Caroline Baum - PeD Aquosos - CB" number="5326"/>
 
 <!-- SALA DE REUNIÃO - TT -->
         <contact name="Sala de Reunião - TT" number= "3109"/>
@@ -490,7 +490,7 @@ LIVRES
 
 <!-- BACKUP -->
         <contact name="Jonas Rodrigues" number= "0051998735078"/>
-        <contact name="Elton Santos - Comercial - TT" number= "0011939373862"/>
+        <!-- <contact name="Elton Santos - Comercial - TT" number= "0011939373862"/> -->
 
     <!-- CAMPO BOM -->
 
