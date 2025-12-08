@@ -84,9 +84,9 @@ LIVRES
         <contact name="Cesar Cruz - Almoxarifado - CB" number="3708" />
 
 <!-- PED AQUOSOS - CB -->
-        <contact name="Natalia Medeiros - PeD Aquosos - CB" number= "5227"  />
-        <contact name="Caroline Baum - PeD Aquosos - CB" number="5326" />
-        <contact name="Setor PeD Aquosos - CB" number= "5347"  />
+        <contact name="Setor PeD Aquosos - PeD Aquosos - CB" number="5347" />
+        <contact name="Caroline Moreira - PeD Aquosos - CB" number="5392" />
+        
 
 <!-- PED LAMINADOS - CB -->
         <contact name="Alessandra Lemos - PeD Laminados - CB" number="5361"/>
@@ -253,6 +253,7 @@ LIVRES
         <contact name="Matheus Macedo - TI - CB" number="5002"/>
 
 <!-- BACKUP - CB -->
+<contact name="? - PeD Aquosos - CB" number= "5227"  />
 
         
     <!-- CAMPO BOM -->
