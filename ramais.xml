@@ -29,12 +29,13 @@ LIVRES
 
 <!-- PROJETOS - CB -->
         <contact name="Caroline Moreira - Projetos - CB" number="5392"/>
+        <contact name="Miguel Ballve - Projetos - CB" number="5217"/>
 
 <!-- SETOR SINTÉTICO - CB -->
         <contact name="Setor Sintético - CB" number= "3752"/>
 
 <!-- GERENTE DE OPERAÇÕES - CB -->
-        <contact name="Rodrigo Cortezia - Gerente de Operações - CB" number= "5231"/>
+        
 
 <!-- RECEPÇÃO - CB -->
         <contact name="Recepção - CB" number= "5366"/>
@@ -81,6 +82,7 @@ LIVRES
 <!--         <contact name="Andreiser Oliveira - Controladoria - CB" number="5213"/> -->
         <contact name="Igor Sobrosa - Controladoria - CB" number="5128"/>
         <contact name="Felipe Bittencourt - Controladoria - CB" number= "3822"/>
+        <contact name="Magdiel Binelo - Projetos - CB" number="5221"/>
         
 
 <!-- ALMOXARIFADO - CB -->
@@ -244,7 +246,7 @@ LIVRES
 
 <!-- PLANEJAMENTO - CB -->
         <!-- <contact name="Daniel Dalbosco - Planejamento - CB" number="5371"/> -->
-        <!-- <contact name="Jesse Rodrigues - Planejamento - CB" number="5217"/> -->
+        <!-- <contact name="Miguel Ballve - Planejamento - CB" number="5217"/> -->
 
 <!-- QUALIDADE - CB -->
         <contact name="Cristiane Both - Qualidade - CB" number="3704"/>
@@ -314,6 +316,7 @@ LIVRES
 
 <!-- ADM - TT -->
         <contact name="Cassiano Neto - ADM - TT" number="3121"/>
+        <contact name="Felipe Camargo - ADM - TT" number="5006"/>
 
 <!-- COMERCIAL - TT -->
         <contact name="Fernando Cardoso - Comercial - TT" number= "3126"/>
@@ -490,6 +493,7 @@ LIVRES
 
 <!-- BACKUP -->
         <contact name="Jonas Rodrigues" number= "0051998735078"/>
+        <contact name="Rodrigo Cortezia - Gerente de Operações - CB" number= "5231"/>
         <!-- <contact name="Elton Santos - Comercial - TT" number= "0011939373862"/> -->
 
     <!-- CAMPO BOM -->
