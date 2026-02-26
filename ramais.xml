@@ -28,7 +28,7 @@ LIVRES
         <contact name="Diana Dave - Vendas" number="5379"/>
 
 <!-- PROJETOS - CB -->
-        <!-- <contact name="Caroline Moreira - Projetos - CB" number="5392"/> -->
+        
 
 <!-- SETOR SINTÉTICO - CB -->
         <contact name="Setor Sintético - CB" number= "3752"/>
@@ -77,9 +77,8 @@ LIVRES
 
 
 <!-- CONTROLADORIA - CB -->
-        <!-- <contact name="Marco Santos - Controladoria - CB" number="5298"/> -->
-         <contact name="Magdiel Binelo - Controladoria - CB" number="5221"/>
-<!--         <contact name="Andreiser Oliveira - Controladoria - CB" number="5213"/> -->
+        
+        <contact name="Magdiel Binelo - Controladoria - CB" number="5221"/>
         <contact name="Igor Sobrosa - Controladoria - CB" number="5128"/>
         <contact name="Felipe Bittencourt - Controladoria - CB" number= "3822"/>
         
@@ -89,8 +88,8 @@ LIVRES
         <contact name="Cesar Cruz - Almoxarifado - CB" number="3708"/>
 
 <!-- PED AQUOSOS - CB -->
-        <contact name="Caroline Baum - PeD Aquosos - CB" number="5392"/>
         <contact name="Setor PeD Aquosos - CB" number= "5347"/>
+        <contact name="Caroline Baum - PeD Aquosos - CB" number="5326"/>
 
 <!-- PED LAMINADOS - CB -->
         <contact name="Alessandra Lemos - PeD Laminados - CB" number="5361"/>
@@ -132,7 +131,6 @@ LIVRES
 
 <!-- COMERCIAL - CB -->
         <contact name="Giovana Telles - Comercial - CB" number="5420"/>
-        <!-- <contact name="Salete Oliveira - Comercial - CB" number="5122"/> -->
         <contact name="Suzane Santos - Comercial - CB" number="5416"/>
         <contact name="Jesus Gomes - Comercial - CB" number= "5383"/>
         <contact name="Jéssica Machado - Comercial - CB" number= "5413"/>
@@ -161,7 +159,6 @@ LIVRES
 
 <!-- SUPPLY - CB -->
         <contact name="Carina Eltz - Supply - CB" number="5240"/>
-        <!-- <contact name="Lucas Kunst - Supply - CB" number="5343"/> -->
         <contact name="Derli Nascimento - Supply - CB" number="5121"/>
         <contact name="Ederson Marques - Supply - CB" number="5228"/>
         <contact name="Jonas Leidens - Supply - CB" number="5323"/>
@@ -182,8 +179,7 @@ LIVRES
         <contact name="Laura Gomes - ADM Vendas - CB" number="5210"/>
         <contact name="Silvana Roos - ADM Vendas - CB" number= "5419"/>
         <contact name="Setor ADM Vendas - CB" number= "5144"/>
-        <contact name="Silvana Maier - ADM Vendas - 5120" number="5120"/>
-        <contact name="Luciane Rehbain - ADM Vendas - CB" number="5270"/>
+        <contact name="Setor ADM Vendas - CB" number="5270"/>
     
 <!-- CONTABILIDADE - CB -->        
         <contact name="Tatiana Colliselli - Contabilidade - CB" number="5307"/>
@@ -203,7 +199,7 @@ LIVRES
         <contact name="Setor Expedição Laminados - CB" number= "3755"/>
 
 <!-- EXPEDIÇÃO - CB -->        
-        <contact name="Renan Caxambu - Expedicão - CB" number="3700"/>
+        <contact name="Marco Aurelio - Expedicão - CB" number="3700"/>
         <contact name="Itamar Flores - Expedição - CB" number="3701"/>
 
 <!-- FINANCEIRO - CB -->        
@@ -235,7 +231,6 @@ LIVRES
 
 <!-- MARKETING - CB -->
         <contact name="Gabriela Hoss - Marketing - CB" number="5295"/>
-        <contact name="Sheila Schepp - Marketing - CB" number="5134"/>
         <contact name="Gabriela Oliveira - Marketing - CB" number= "5301"/>
         <contact name="Jairo Korndoerfer - Marketing - CB" number= "3808"/>
 
@@ -243,8 +238,8 @@ LIVRES
         <contact name="Adriana Nicolini - PeD - CB" number="5349"/>
         <contact name="Daniela Schmitt - PeD - CB" number="5223"/>
 
-<!-- PLANEJAMENTO - CB -->
-        <!-- <contact name="Daniel Dalbosco - Planejamento - CB" number="5371"/> -->
+<!-- PLANEJAMENTO / PROJETOS - CB -->
+        <contact name="Alison Lima - Planejamento - CB" number="5371"/> 
         <contact name="Miguel Ballve - Projetos - CB" number="5217"/>
 
 <!-- QUALIDADE - CB -->
@@ -278,11 +273,6 @@ LIVRES
 
     <!-- SÃO PAULO (TT) -->
 
-<!-- BACKUP - TT -->
-        <contact name="Backup - TT" number="3116"/>
-        <contact name="Natalia Medeiros - PeD Aquosos - CB" number= "5227"/>
-        <contact name="Caroline Baum - PeD Aquosos - CB" number="5326"/>
-
 <!-- SALA DE REUNIÃO - TT -->
         <contact name="Sala de Reunião - TT" number= "3109"/>
 
@@ -308,7 +298,7 @@ LIVRES
         <contact name="Osvaldo Silva - PCP - TT" number= "3118"/>
 
 <!-- GERENTE - TT -->
-        <!-- <contact name="Marcelo Albuquerque - Gerente - TT" number= "3123"/> -->
+        
 
 <!-- MANUTENÇÃO - TT -->
         <contact name="Manutenção - TT" number= "3731"/>
@@ -349,7 +339,7 @@ LIVRES
         <contact name="Ariane Soares - Administrativo - TT" number= "0011976210460"/>
 
 <!-- GERENTE - TT -->
-        <!-- <contact name="Marcelo Albuquerque - Gerente - TT" number= "0015998130769"/> -->
+        
 
 <!-- DH - TT -->
         <contact name="Adriana Rosa - DH - TT" number="0015981331383"/>
@@ -373,6 +363,13 @@ LIVRES
         <contact name="Sander Pacheco - Comercial - TT" number= "0048988701062"/>
         <contact name="Sergio Soares - Comercial - TT" number= "0011964739637"/>
         <contact name="Walkiria do Vale - Comercial - TT" number= "0011963308681"/>
+
+<!-- BACKUP - TT -->
+        <!-- <contact name="Backup - TT" number="3116"/> -->
+        <!-- <contact name="Natalia Medeiros - PeD Aquosos - CB" number= "5227"/> -->
+        <!-- <contact name="Elton Santos - Comercial - TT" number= "0011939373862"/> -->
+        <!-- <contact name="Marcelo Albuquerque - Gerente - TT" number= "0015998130769"/> -->
+        <!-- <contact name="Marcelo Albuquerque - Gerente - TT" number= "3123"/> -->
 
 <!-- SÃO PAULO (TT) -->
 
@@ -437,7 +434,6 @@ LIVRES
         <contact name="Gilmar Barth - Comercial - CB" number= "0051980419431"/>
         <contact name="Jesus Gomes - Comercial - CB" number= "0051981860141"/>
         <contact name="Fabiano Trein - Comercial - CB" number= "0051995408667"/>
-<!--         <contact name="Tiago Ferreira - Comercial - CB" number= "0051981252107"/> -->
         <contact name="Luciana Felipette - Comercial - CB" number= "0051997842214"/>
         <contact name="Marcelo Almeida - Comercial - CB" number= "0083999368600"/>
         <contact name="Marzane Sommer - Comercial - CB" number= "0051996059659"/>
@@ -489,9 +485,21 @@ LIVRES
         <contact name="Francisco Garcia - Service - CB" number= "0051998438914"/>
         <contact name="Setor Service - Service - CB" number= "0051980301517"/>
 
-<!-- BACKUP -->
-        <contact name="Jonas Rodrigues" number= "0051998735078"/>
-        <!-- <contact name="Elton Santos - Comercial - TT" number= "0011939373862"/> -->
+<!-- PLANEJADOR DE MATERIAIS - CB -->
+        <contact name="Jonas Rodrigues Leidens" number= "0051998735078"/>
+
+<!-- BACKUP - CB -->
+        <!-- <contact name="Tiago Ferreira - Comercial - CB" number= "0051981252107"/> -->
+        <!-- <contact name="Caroline Moreira - Projetos - CB" number="5392"/> -->
+        <!-- <contact name="Lucas Kunst - Supply - CB" number="5343"/> -->
+        <!-- <contact name="Salete Oliveira - Comercial - CB" number="5122"/> -->
+        <!-- <contact name="Marco Santos - Controladoria - CB" number="5298"/> -->
+        <!-- <contact name="Andreiser Oliveira - Controladoria - CB" number="5213"/> -->
+        <!-- <contact name="Silvana Maier - ADM Vendas - 5120" number="5120"/> -->
+        <!-- <contact name="Sheila Schepp - Marketing - CB" number="5134"/> -->
+        <!-- <contact name="Backup - CB" number="5186"/> -->
+        <!-- <contact name="Backup - CB" number="5105"/> -->
+        <!-- <contact name="Backup - CB" number="5220"/> -->
 
     <!-- CAMPO BOM -->
 
