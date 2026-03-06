@@ -34,7 +34,7 @@ LIVRES
         <contact name="Setor Sintético - CB" number= "3752"/>
 
 <!-- GERENTE DE OPERAÇÕES - CB -->
-        <contact name="Rodrigo Cortezia - Gerente de Operações - CB" number= "5231"/>
+        <contact name="Denilson Rodrigues - Gerente de Operações - CB" number= "5231"/>
 
 <!-- RECEPÇÃO - CB -->
         <contact name="Recepção - CB" number= "5366"/>
@@ -137,6 +137,7 @@ LIVRES
         <contact name="Marzane Sommer - Comercial - CB" number= "5425"/>
         <contact name="Michele Bender - Comercial - CB" number= "5229"/>
         <contact name="Joice Diniz - Comercial" number="5219"/>
+        <contact name="Luisa Santos - Comercial - CB" number="5122"/>
 
 <!-- FINANCEIRO - CB -->
         <contact name="Setor Financeiro - CB" number="3501"/>
@@ -444,6 +445,7 @@ LIVRES
         <contact name="Adilson Santos - Comercial - CB" number="0051991337454"/>
         <contact name="Jairo Korndoerfer - Comercial - CB" number="0051989592514"/>
         <contact name="Dianalise Dave - Comercial - CB" number="005197842214"/>
+    
 
 <!-- TI - CB -->
         <contact name="Marcio Schons - TI - CB" number="0051997842151"/>
@@ -455,7 +457,7 @@ LIVRES
         <contact name="Juliana Thiesen - Cont. Int. Corp. - CB" number= "0051999181187"/>
 
 <!-- GERENTE DE OPERAÇÕES - CB -->
-        <contact name="Rodrigo Cortezia - CB" number= "0051997842016"/>
+        <contact name="Denilson Rodrigues - CB" number= "0051989588784"/>
 
 <!-- DIRETORIA - CB -->
         <contact name="Sérgio Patzlaff - Diretoria - CB" number="0051989832278"/>
@@ -493,7 +495,6 @@ LIVRES
         <!-- <contact name="Tiago Ferreira - Comercial - CB" number= "0051981252107"/> -->
         <!-- <contact name="Caroline Moreira - Projetos - CB" number="5392"/> -->
         <!-- <contact name="Lucas Kunst - Supply - CB" number="5343"/> -->
-        <!-- <contact name="Salete Oliveira - Comercial - CB" number="5122"/> -->
         <!-- <contact name="Marco Santos - Controladoria - CB" number="5298"/> -->
         <!-- <contact name="Andreiser Oliveira - Controladoria - CB" number="5213"/> -->
         <!-- <contact name="Silvana Maier - ADM Vendas - 5120" number="5120"/> -->
