@@ -139,6 +139,7 @@ LIVRES
         <contact name="Joice Diniz - Comercial" number="5219"/>
         <contact name="Luisa Santos - Comercial - CB" number="5122"/>
         <contact name="Jailson Costa - Comercial - CB - 5120" number="5120"/>
+        <contact name="Natalia Gonçalves - Comercial - CB" number="5134"/>
 
 <!-- FINANCEIRO - CB -->
         <contact name="Setor Financeiro - CB" number="3501"/>
@@ -247,6 +248,9 @@ LIVRES
 
 <!-- QUALIDADE - CB -->
         <contact name="Cristiane Both - Qualidade - CB" number="3704"/>
+
+<!-- GESTÃO DE PRODUTOS - CB -->
+        <contact name="Ederson Andrade - Gestao de Produtos - CB" number="5220"/>
 
 <!-- TI - CB -->
         <contact name="TI - CB" number="5000"/>
@@ -500,10 +504,7 @@ LIVRES
         <!-- <contact name="Tiago Ferreira - Comercial - CB" number= "0051981252107"/> -->
         <!-- <contact name="Marco Santos - Controladoria - CB" number="5298"/> -->
         <!-- <contact name="Andreiser Oliveira - Controladoria - CB" number="5213"/> -->
-        <!-- <contact name="Sheila Schepp - Marketing - CB" number="5134"/> -->
         <!-- <contact name="Backup - CB" number="5186"/> -->
-        <!-- <contact name="Backup - CB" number="5105"/> -->
-        <!-- <contact name="Backup - CB" number="5220"/> -->
         <!-- <contact name="Gabriela Hoss - Marketing - CB" number="5295"/> -->
         <!-- <contact name="Ana Sasamori - PeD Laminados - CB" number="5385"/> -->
 
