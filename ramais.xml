@@ -311,7 +311,7 @@ LIVRES
         <contact name="Manutenção - TT" number= "3731"/>
 
 <!-- ADM - TT -->
-        <contact name="Cassiano Neto - ADM - TT" number="3121"/>
+        
 
 <!-- COMERCIAL - TT -->
         <contact name="Fernando Cardoso - Comercial - TT" number= "3126"/>
@@ -507,6 +507,9 @@ LIVRES
         <!-- <contact name="Backup - CB" number="5186"/> -->
         <!-- <contact name="Gabriela Hoss - Marketing - CB" number="5295"/> -->
         <!-- <contact name="Ana Sasamori - PeD Laminados - CB" number="5385"/> -->
+
+<!-- BACKUP - TT -->
+        <!-- <contact name="Cassiano Neto - ADM - TT" number="3121"/> -->
 
     <!-- CAMPO BOM -->
 
