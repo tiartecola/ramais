@@ -237,6 +237,7 @@ LIVRES
 <!-- MARKETING - CB -->
         <contact name="Gabriela Oliveira - Marketing - CB" number= "5301"/>
         <contact name="Jairo Korndoerfer - Marketing - CB" number= "3808"/>
+        <contact name="Ricardo Cappra - Marketing - CB" number="5295"/>
 
 <!-- PED - CB -->        
         <contact name="Adriana Nicolini - PeD - CB" number="5349"/>
@@ -413,7 +414,7 @@ LIVRES
 <!-- MARKETING - CB -->   
         <contact name="Sheila Schepp - Marketing - CB" number="0051980419523"/>
         <contact name="Gabriela Oliveira - Marketing - CB" number= "0051991314132"/>
-        <contact name="Kaio Baia - Marketing - CB" number="0051980186492"/>
+        <contact name="Ricardo Cappra - Marketing - CB" number="0051980186492"/>
 
 <!-- FINANCEIRO - CB -->        
         <contact name="Viviane Silveira - Financeiro" number= "0051980214585"/>
@@ -454,7 +455,6 @@ LIVRES
         <contact name="Jairo Korndoerfer - Comercial - CB" number="0051989592514"/>
         <contact name="Dianalise Dave - Comercial - CB" number="005197842214"/>
         <contact name="Tatiana Lacerda - Comercial - CB" number="5371"/> 
-    
 
 <!-- TI - CB -->
         <contact name="Marcio Schons - TI - CB" number="0051997842151"/>
@@ -506,7 +506,6 @@ LIVRES
         <!-- <contact name="Marco Santos - Controladoria - CB" number="5298"/> -->
         <!-- <contact name="Andreiser Oliveira - Controladoria - CB" number="5213"/> -->
         <!-- <contact name="Backup - CB" number="5186"/> -->
-        <!-- <contact name="Gabriela Hoss - Marketing - CB" number="5295"/> -->
         <!-- <contact name="Ana Sasamori - PeD Laminados - CB" number="5385"/> -->
 
 <!-- BACKUP - TT -->
