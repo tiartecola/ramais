@@ -140,6 +140,7 @@ LIVRES
         <contact name="Luisa Santos - Comercial - CB" number="5122"/>
         <contact name="Jailson Costa - Comercial - CB - 5120" number="5120"/>
         <contact name="Natalia Gonçalves - Comercial - CB" number="5134"/>
+        <contact name="Tatiana Lacerda - Comercial - CB" number="5371"/> 
 
 <!-- FINANCEIRO - CB -->
         <contact name="Setor Financeiro - CB" number="3501"/>
@@ -453,7 +454,7 @@ LIVRES
         <contact name="Adilson Santos - Comercial - CB" number="0051991337454"/>
         <contact name="Jairo Korndoerfer - Comercial - CB" number="0051989592514"/>
         <contact name="Dianalise Dave - Comercial - CB" number="005197842214"/>
-        <contact name="Tatiana Lacerda - Comercial - CB" number="5371"/> 
+        <contact name="Leandro Mittanck - Comercial - CB" number="0051991165255"/>
 
 <!-- TI - CB -->
         <contact name="Marcio Schons - TI - CB" number="0051997842151"/>
@@ -463,6 +464,9 @@ LIVRES
 
 <!-- CONT. INT. CORP. - CB -->
         <contact name="Juliana Thiesen - Cont. Int. Corp. - CB" number= "0051999181187"/>
+
+<!-- GERENTE DE PRODUTO - CB -->
+        <contact name="Edemar Andrade - Gerente de Produto - CB" number= "0051989587160"/>
 
 <!-- GERENTE DE OPERAÇÕES - CB -->
         <contact name="Denilson Rodrigues - CB" number= "0051989588784"/>
