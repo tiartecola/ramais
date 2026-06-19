@@ -76,8 +76,8 @@ LIVRES
 <!-- CONTROLADORIA - CB -->
         <contact name="Magdiel Binelo - Controladoria - CB" number="5221"/>
         <contact name="Felipe Bittencourt - Controladoria - CB" number= "3822"/>
-        <contact name="Karla Joner - Controladoria - CB" number="5213"/>
         <contact name="Camila Poli - Controladoria - CB" number="5128"/>
+        <contact name="Leticia Burgel - Controladoria - CB" number="5298"/>
         
 
 <!-- ALMOXARIFADO - CB -->
@@ -240,9 +240,6 @@ LIVRES
         <contact name="Adriana Nicolini - PeD - CB" number="5349"/>
         <contact name="Daniela Schmitt - PeD - CB" number="5223"/>
         <contact name="Laura Rosa - PeD - CB" number= "3123"/>
-
-<!-- PLANEJAMENTO - CB -->
-        <!-- <contact name="Daniel Dalbosco - Planejamento - CB" number="5371"/> -->
 
 <!-- PLANEJAMENTO / PROJETOS - CB -->
         <contact name="Miguel Ballve - Projetos - CB" number="5217"/>
@@ -444,6 +441,8 @@ LIVRES
 
 <!-- CONTROLADORIA - CB -->
         <contact name="Marco Santos - Controladoria - CB" number="0051980560381"/>
+        <contact name="Marco Santos - Controladoria - CB" number="0051989585525"/>
+
 
 <!-- COMERCIAL - CB -->
         <contact name="Gilmar Barth - Comercial - CB" number= "0051980419431"/>
@@ -484,7 +483,6 @@ LIVRES
 
 <!-- DH - CB -->
         <contact name="Setor DH - CB" number= "0051999748974"/>
-        <contact name="Caroline Wust - DH - CB" number= "0051998009887"/>
 
 <!-- PED HOTMELT - CB -->
         <contact name="Vanessa Birck - PeD HotMelt - CB" number="0051999263034"/>
@@ -507,15 +505,11 @@ LIVRES
 <!-- BACKUP - CB -->
         <!-- <contact name="Tiago Ferreira - Comercial - CB" number= "0051981252107"/> -->
         <!-- <contact name="Vanei Silva - Manutenção - CB" number= "005137785205"/> -->
-        <!-- <contact name="Marco Santos - Controladoria - CB" number="5298"/> -->
-        <!-- <contact name="Andreiser Oliveira - Controladoria - CB" number="5213"/> -->
         <!-- <contact name="Ana Sasamori - PeD Laminados - CB" number="5385"/> -->
         <!-- <contact name="Renato Filho - Logistica - CB" number="5230"/> -->
         <!-- <contact name="Daniel Brites - LAP - CB" number="5350"/> -->
         <!-- <contact name="Evandro Schonardie - Logistica - CB" number="5314"/> -->
-
-<!-- BACKUP - TT -->
-        <!-- <contact name="Elton Santos - Comercial - TT" number= "0011939373862"/> -->
+        <!-- <contact name="Karla Joner - Controladoria - CB" number="5213"/> -->
 
     <!-- CAMPO BOM -->
 
