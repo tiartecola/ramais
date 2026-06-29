@@ -281,6 +281,9 @@ LIVRES
 <!-- SALA DE REUNIÃO - TT -->
         <contact name="Sala de Reunião - TT" number= "3109"/>
 
+<!-- P&E - TT -->
+        <contact name="Fábio Castro - PeE - TT" number="5213"/>
+
 <!-- SETOR LCQ - TT -->
         <contact name="Setor LCQ - TT" number= "3124"/>
 
@@ -335,7 +338,7 @@ LIVRES
         <contact name="Adriana Rosa - DH - TT" number="3110"/>
 
 <!-- ADMINISTRATIVO - TT -->
-        <contact name="Pedro Oliveira - Administrativo - TT" number= "5227"/> 
+        <contact name="Pedro Oliveira - Administrativo - TT" number= "5227"/>
 
      <!-- SÃO PAULO (TT) -->
         
@@ -349,6 +352,9 @@ LIVRES
 
 <!-- ADMINISTRATIVO - TT -->
         <contact name="Ariane Soares - Administrativo - TT" number= "0011976210460"/>
+
+<!-- P&E - TT -->
+        <contact name="Fábio Castro - PeE - TT" number= "0011939373862"/>
 
 <!-- GERENTE - TT -->
         
@@ -380,7 +386,7 @@ LIVRES
 
 
 <!-- BACKUP - TT -->
-        <!-- <contact name="Elton Santos - Comercial - TT" number= "0011939373862"/> -->
+       
 
 <!-- SÃO PAULO (TT) -->
 
@@ -500,17 +506,18 @@ LIVRES
         <contact name="Francisco Garcia - Service - CB" number= "0051998438914"/>
         <contact name="Setor Service - Service - CB" number= "0051980301517"/>
 
-<!-- BACKUP - CB -->
-        <!-- <contact name="Tiago Ferreira - Comercial - CB" number= "0051981252107"/> -->
-        <!-- <contact name="Vanei Silva - Manutenção - CB" number= "005137785205"/> -->
+<!-- BACKUP RAMAIS - CB -->
         <!-- <contact name="Ana Sasamori - PeD Laminados - CB" number="5385"/> -->
         <!-- <contact name="Renato Filho - Logistica - CB" number="5230"/> -->
         <!-- <contact name="Daniel Brites - LAP - CB" number="5350"/> -->
         <!-- <contact name="Evandro Schonardie - Logistica - CB" number="5314"/> -->
-        <!-- <contact name="Karla Joner - Controladoria - CB" number="5213"/> -->
         <!-- <contact name="Raphaelle Silva - LCQ - CB" number="5418"/> -->
-        <!-- <contact name="Raphaelle Silva - LCQ - CB" number= "0051993787742"/> -->
+        
 
+<!-- BACKUP TELEFONES - CB -->
+        <!-- <contact name="Tiago Ferreira - Comercial - CB" number= "0051981252107"/> -->
+        <!-- <contact name="Vanei Silva - Manutenção - CB" number= "005137785205"/> -->
+        <!-- <contact name="Raphaelle Silva - LCQ - CB" number= "0051993787742"/> -->
     <!-- CAMPO BOM -->
 
 </contacts>   
