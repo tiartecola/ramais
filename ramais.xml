@@ -161,7 +161,6 @@ LIVRES
 <!-- SUPPLY - CB -->
         <contact name="Carina Eltz - Supply - CB" number="5240"/>
         <contact name="Derli Nascimento - Supply - CB" number="5121"/>
-        <contact name="Ederson Marques - Supply - CB" number="5228"/>
         <contact name="Jonas Leidens - Supply - CB" number="5323"/>
         <contact name="Fausto Citolin - Supply - CB" number= "5216"/>
         <contact name="Caroline Heck - Supply - CB" number= "5226"/>
@@ -441,7 +440,6 @@ LIVRES
         <contact name="Carina Eltz - Supply - CB" number="0051994828747"/>
         <contact name="Fausto Citolin - Supply - CB" number= "0051992590502"/>
         <contact name="Jonivan Silva - Supply - CB" number= "0051999137668"/>
-        <contact name="Ederson Marques - Supply - CB" number="0051989481638"/>
         <contact name="Matheus Geyer - Supply - CB" number="005137785331"/>
 
 <!-- CONTROLADORIA - CB -->
@@ -515,12 +513,14 @@ LIVRES
         <!-- <contact name="Evandro Schonardie - Logistica - CB" number="5314"/> -->
         <!-- <contact name="Raphaelle Silva - LCQ - CB" number="5418"/> -->
         <!-- <contact name="Ronaldo Oliveira - Expedição - CB" number="5350"/> -->
+        <!-- <contact name="Ederson Marques - Supply - CB" number="5228"/> -->
         
-
 <!-- BACKUP TELEFONES - CB -->
         <!-- <contact name="Tiago Ferreira - Comercial - CB" number= "0051981252107"/> -->
         <!-- <contact name="Vanei Silva - Manutenção - CB" number= "005137785205"/> -->
         <!-- <contact name="Raphaelle Silva - LCQ - CB" number= "0051993787742"/> -->
+        <!-- <contact name="Ederson Marques - Supply - CB" number="0051989481638"/> -->
+        
     <!-- CAMPO BOM -->
 
 </contacts>   
