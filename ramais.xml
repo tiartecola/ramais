@@ -133,7 +133,6 @@ LIVRES
         <contact name="Jéssica Machado - Comercial - CB" number= "5413"/>
         <contact name="Marzane Sommer - Comercial - CB" number= "5425"/>
         <contact name="Michele Bender - Comercial - CB" number= "5229"/>
-        <contact name="Joice Diniz - Comercial" number="5219"/>
         <contact name="Luisa Santos - Comercial - CB" number="5122"/>
         <contact name="Jailson Costa - Comercial - CB - 5120" number="5120"/>
         <contact name="Natalia Gonçalves - Comercial - CB" number="5134"/>
@@ -334,10 +333,11 @@ LIVRES
 
 <!-- DH - TT -->
         <contact name="Ariane Soares - DH - TT" number="3117"/>
-        <contact name="Adriana Rosa - DH - TT" number="3110"/>
+        <contact name="Adriana Rosa - DH - TT" number="5219"/>
 
 <!-- ADMINISTRATIVO - TT -->
         <contact name="Pedro Oliveira - Administrativo - TT" number= "5227"/>
+        <contact name="Ana Miranda- Administrativo - TT" number="3110"/>
 
      <!-- SÃO PAULO (TT) -->
         
@@ -351,6 +351,7 @@ LIVRES
 
 <!-- ADMINISTRATIVO - TT -->
         <contact name="Ariane Soares - Administrativo - TT" number= "0011976210460"/>
+        <contact name="Ana Miranda - Administrativo - TT" number="0015981331383"/>
 
 <!-- P&E - TT -->
         <contact name="Fábio Castro - PeE - TT" number= "0011939373862"/>
@@ -359,7 +360,7 @@ LIVRES
         
 
 <!-- DH - TT -->
-        <contact name="Adriana Rosa - DH - TT" number="0015981331383"/>
+        
 
 <!-- KEY ACCOUNT MANNAGER (KEY) - TT -->
         <contact name="Vaner Andrade - KEY - TT" number= "0011999922501"/>
