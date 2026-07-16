@@ -36,4 +36,6 @@ GitHub institucional: https://github.com/tiartecola
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML integrado ao MicroSip
+- HTML
+- XML
+- MicroSip (XML + HTML integrados: https://tiartecola.github.io/ramais/ramais.xml)
