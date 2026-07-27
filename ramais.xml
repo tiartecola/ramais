@@ -317,7 +317,6 @@ LIVRES
 <!-- COMERCIAL - TT -->
         <contact name="Fernando Cardoso - Comercial - TT" number= "3126"/>
         <contact name="Marco Ferreira - Comercial - TT" number= "3127"/>
-        <contact name="Juliano Modolo - Comercial - TT" number= "3107"/>
         <contact name="Walkiria do Vale - Comercial - TT" number= "3128"/>
         <contact name="Jeferson Pohl - Comercial - TT" number= "3101"/>
 
@@ -382,11 +381,12 @@ LIVRES
         <contact name="Sergio Soares - Comercial - TT" number= "0011964739637"/>
         <contact name="Walkiria do Vale - Comercial - TT" number= "0011963308681"/>
         <contact name="Bruno Oliveira - Comercial - TT" number= "0015998130769"/>
-        <contact name="Juliano Modolo - Comercial - TT" number= "0011987533990"/> 
+        
 
 
 <!-- BACKUP - TT -->
-       
+       <!-- <contact name="Juliano Modolo - Comercial - TT" number= "3107"/> -->
+       <!-- <contact name="Juliano Modolo - Comercial - TT" number= "0011987533990"/>  -->
 
 <!-- SÃO PAULO (TT) -->
 
