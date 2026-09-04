@@ -151,7 +151,6 @@ LIVRES
         <contact name="Viviane Silveira - Financeiro - CB" number= "5208"/>
 
 <!-- DIRETORIA - CB -->
-        <contact name="Sérgio Patzlaff - Diretoria - CB" number="5259"/>
         <contact name="Fabiane Scherer - Diretoria - CB" number= "5203"/>
         <contact name="Luisa Silva - Diretoria - CB" number= "5244"/>
 
@@ -490,7 +489,6 @@ LIVRES
         <contact name="Denilson Rodrigues - CB" number= "0051989588784"/>
 
 <!-- DIRETORIA - CB -->
-        <contact name="Sérgio Patzlaff - Diretoria - CB" number="0051989832278"/>
         <contact name="Luisa Silva - Diretoria - CB" number= "005137783833"/>
 
 <!-- MANUTENÇÃO - CB -->
@@ -521,11 +519,13 @@ LIVRES
 
 <!-- BACKUP RAMAIS - CB -->
         <!-- <contact name="Setor Logística" number= "5333"/> -->
+        <!-- <contact name="Sérgio Patzlaff - Diretoria - CB" number="5259"/> -->
         
 <!-- BACKUP TELEFONES - CB -->
         <!-- <contact name="Tiago Ferreira - Comercial - CB" number= "0051981252107"/> -->
         <!-- <contact name="Vanei Silva - Manutenção - CB" number= "005137785205"/> -->
         <!-- <contact name="Raphaelle Silva - LCQ - CB" number= "0051993787742"/> -->
+        <!-- <contact name="Sérgio Patzlaff - Diretoria - CB" number="0051989832278"/> -->
         
     <!-- CAMPO BOM -->
 
