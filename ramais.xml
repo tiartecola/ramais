@@ -339,8 +339,7 @@ LIVRES
 
 <!-- ADMINISTRATIVO - TT -->
         <contact name="Pedro Oliveira - Administrativo - TT" number= "5227"/>
-        <contact name="Ana Miranda- Administrativo - TT" number="3110"/>
-
+        
      <!-- SÃO PAULO (TT) -->
         
 
@@ -353,7 +352,6 @@ LIVRES
 
 <!-- ADMINISTRATIVO - TT -->
         <contact name="Ariane Soares - Administrativo - TT" number= "0011976210460"/>
-        <contact name="Ana Miranda - Administrativo - TT" number="0015981331383"/>
 
 <!-- P&E - TT -->
         <contact name="Fábio Castro - PeE - TT" number= "0011939373862"/>
@@ -390,7 +388,9 @@ LIVRES
 
 <!-- BACKUP - TT -->
        <!-- <contact name="Juliano Modolo - Comercial - TT" number= "0011987533990"/>  -->
-
+       <!-- <contact name="Ana Miranda- Administrativo - TT" number="3110"/> -->
+       <!-- <contact name="Ana Miranda - Administrativo - TT" number="0015981331383"/> -->
+       
 <!-- SÃO PAULO (TT) -->
 
 <!-- CAXIAS DO SUL -->
